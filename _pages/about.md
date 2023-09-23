@@ -18,16 +18,19 @@ Highlights
 We have organized a challenge to design comprehensive and efficient solutions for multi-UAV collaborative inspection of large structures. The challeng is simulation-based and the winners will be announced at [IEEE Conference on Decision and Control (CDC)](https://cdc2023.ieeecss.org/cooperative-aerial-robots-inspection-challenge/), Singapore, December 2023. The challenge rules can be found [here](https://ntu-aris.github.io/caric/).
 
 <div style="text-align:center">
-  <img src="images/caric.gif" alt="facade_inspection" width="100%"/>
+  <img src="images/caric1.gif" alt="facade_inspection" width="100%"/>
   <figcaption>CARIC software package can simulate UAV dynamics, physical collisions, camera-FOV-based instance detection, and line-of-sight-only communications</figcaption>
 </div>
 
 ------
-**A New Hybrid Aerial-Ground Robot**
+**A New Hybrid Aerial-Ground Robot (IROS 2023)**
 We have introduced a novel hybrid aerial-ground robot capable of climbing slope, flying over obstacles and crawling under barriers. The paper is accpeted by IROS 2023. \[[Paper](https://arxiv.org/abs/2303.05075)\]\[[Video](https://youtu.be/hcw4GKmW_vs)\]
 
 ------
-**Planning for Multiple Tethered Robots Using Topological Braids**
+**Planning for Multiple Tethered Robots Using Topological Braids (RSS 2023)**
 We have introduced a path planning algorithm for multiple tethered robot with guaranteed non-entanglement, leveraging the theory of topological braids. The paper is accepted by Robotics: Science and Systems (RSS) 2023. \[[Paper](https://www.roboticsproceedings.org/rss19/p106.html)\]\[[Video](https://youtu.be/igP7eaOyZuc?si=JnqFPzdO9TdRhEz0)\]\[[Presentation](https://www.youtube.com/watch?v=0-WXg0hH5Co&t=4976s)\]
 
+------
+**Trajectory Planning for Multiple Tethered Unmanned Vehicles (T-RO)**
+We have introduced a trajectory planning framework for multiple tethered unmanned vehicles. The framework lewverages a proposed representation of homotopy that efficiently captures the interactions among the robots, and generates trajectories in an online and decentralized manner. The paper is accepted by IEEE T-EO. \[[Paper](https://ieeexplore.ieee.org/document/10106112)\]\[[Video](https://youtu.be/8b1RlDvQsi0?si=5a1XaOBbJUw2tFsK)\]
 ------
