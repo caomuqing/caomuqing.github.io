@@ -39,7 +39,7 @@ We have introduced a novel hybrid aerial-ground robot capable of climbing slope,
 We have introduced a path planning algorithm for multiple tethered robot with guaranteed non-entanglement, leveraging the theory of topological braids. The paper is accepted by Robotics: Science and Systems (RSS) 2023. \[[Paper](https://www.roboticsproceedings.org/rss19/p106.html)\]\[[Video](https://youtu.be/igP7eaOyZuc?si=JnqFPzdO9TdRhEz0)\]\[[Presentation](https://www.youtube.com/watch?v=0-WXg0hH5Co&t=4976s)\]\[[Code](https://github.com/caomuqing/tethered_robots_path_planning)\]
 
 <p float="left">
-  <img src="images/rss1.gif" width="30%" />
+  <img src="images/rss1.gif" width="50%" />
   <img src="images/rss2.gif" width="40%" />
 </p>
 
