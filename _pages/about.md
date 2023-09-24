@@ -22,7 +22,7 @@ We have organized a challenge to design comprehensive and efficient solutions fo
   <figcaption>CARIC software package can simulate UAV dynamics, physical collisions, camera-FOV-based instance detection, and line-of-sight-only communications</figcaption>
 </div>
 
-<hr style="border:1px solid gray">
+<hr style="border:0.3px solid gray">
 
 **A New Hybrid Aerial-Ground Robot (IROS 2023)**
 
@@ -32,28 +32,33 @@ We have introduced a novel hybrid aerial-ground robot capable of climbing slope,
   <img src="images/doublebee.gif" alt="doublebee" width="70%"/>
 </div>
 
-<hr style="border:1px solid gray">
+<hr style="border:0.3px solid gray">
 
 **Planning for Multiple Tethered Robots Using Topological Braids (RSS 2023)**
 
 We have introduced a path planning algorithm for multiple tethered robot with guaranteed non-entanglement, leveraging the theory of topological braids. The paper is accepted by Robotics: Science and Systems (RSS) 2023. \[[Paper](https://www.roboticsproceedings.org/rss19/p106.html)\]\[[Video](https://youtu.be/igP7eaOyZuc?si=JnqFPzdO9TdRhEz0)\]\[[Presentation](https://www.youtube.com/watch?v=0-WXg0hH5Co&t=4976s)\]\[[Code](https://github.com/caomuqing/tethered_robots_path_planning)\]
 
-<hr style="border:1px solid gray">
+<div style="text-align:center">
+  <img src="images/rss1.gif" alt="rss1" height="30"/>
+  <img src="images/rss2.gif" alt="rss2" height="30"/>
+</div>
+
+<hr style="border:0.3px solid gray">
 
 **Trajectory Planning for Multiple Tethered Unmanned Vehicles (T-RO)**
 
 We have introduced a trajectory planning framework for multiple tethered unmanned vehicles. The framework lewverages a proposed representation of homotopy that efficiently captures the interactions among the robots, and generates trajectories in an online and decentralized manner. The paper is accepted by IEEE T-EO. \[[Paper](https://ieeexplore.ieee.org/document/10106112)\]\[[Video](https://youtu.be/8b1RlDvQsi0?si=5a1XaOBbJUw2tFsK)\]\[[Code](https://github.com/caomuqing/neptune)\]
 
-<hr style="border:1px solid gray">
+<hr style="border:0.3px solid gray">
 
 **Distributed Multi-Robot Sweep Coverage Control**
 
 We have introduced a coverage control algorithm for multi-robot sweep coverage in a region with unknown and uneven workload distribution. The paper is accepted by IEEE T-SMC. \[[Paper](https://ieeexplore.ieee.org/document/10168201)\]\[[Video](https://youtu.be/nBXupDJ9x94?si=JUgQYje5BrFEth6z)\]
 
-<hr style="border:1px solid gray">
+<hr style="border:0.3px solid gray">
 
 **Differential Dynamic Programming-Based Polynomial Trajectory Generation (RA-L)**
 
 We have introduced a novel polynomial trajectory optimization algorithm leveraging differential dynamic programming. We have also released a solver-free implementation of the algorithm in the [package](https://github.com/ntu-caokun/DIRECT). The algorithm is verified using an UAV in indoor flight experiments. The paper is accepted by IEEE RA-L. \[[Paper](https://ieeexplore.ieee.org/document/9681227)\]\[[Video](https://youtu.be/BM8_ABM_2VM?si=NYmO9b82DaAmkFiN)\]\[[Code](https://github.com/ntu-caokun/DIRECT)\]
 
-<hr style="border:1px solid gray">
+<hr style="border:0.3px solid gray">
