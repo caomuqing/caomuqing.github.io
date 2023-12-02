@@ -15,6 +15,8 @@ Highlights
 
 **Cooperative Aerial Robots Inspection Challenge (CARIC) @ CDC 2023**
 
+<img style="float: left;" src="images/caric1.gif" width="30%">
+
 We have organized a challenge to design comprehensive and efficient solutions for multi-UAV collaborative inspection of large structures. The challeng is simulation-based and the winners will be announced at [IEEE Conference on Decision and Control (CDC)](https://cdc2023.ieeecss.org/cooperative-aerial-robots-inspection-challenge/), Singapore, December 2023. The challenge rules can be found [here](https://ntu-aris.github.io/caric/).
 
 <div style="text-align:center">
