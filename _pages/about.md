@@ -22,11 +22,11 @@ We have organized a challenge to design comprehensive and efficient solutions fo
   <figcaption>CARIC software package can simulate UAV dynamics, physical collisions, camera-FOV-based instance detection, and line-of-sight-only communications</figcaption>
 </div>
 
-<hr style="border:3px light blue">
+<hr style="border:1px solid gray">
 
 **A New Hybrid Aerial-Ground Robot (IROS 2023)**
 
-We have introduced a novel hybrid aerial-ground robot capable of climbing slope, flying over obstacles and crawling under barriers. The paper is accpeted by IROS 2023, and is the **finalist for the IROS Best Entertainment and Amusement Paper Award sponsored by JTCF**.  \[[Paper](https://arxiv.org/abs/2303.05075)\]\[[Video](https://youtu.be/hcw4GKmW_vs)\]
+We have introduced a novel hybrid aerial-ground robot capable of climbing slope, flying over obstacles and crawling under barriers. **IROS Best Entertainment and Amusement Paper Award sponsored by JTCF**.  \[[Paper](https://arxiv.org/abs/2303.05075)\]\[[Video](https://youtu.be/hcw4GKmW_vs)\]
 
 <div style="text-align:center">
   <img src="images/doublebee.gif" alt="doublebee" width="100%"/>
