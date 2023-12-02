@@ -13,6 +13,8 @@ Hi, I am a PhD at Nanyang Technological University. My research interests is in 
 Highlights
 ======
 
+<span style="color:blue">*Cooperative Aerial Robots Inspection Challenge (CARIC) @ CDC 2023*</span>.
+
 **Cooperative Aerial Robots Inspection Challenge (CARIC) @ CDC 2023**
 
 <img style="float: left;" src="images/caric1.gif" width="30%">
