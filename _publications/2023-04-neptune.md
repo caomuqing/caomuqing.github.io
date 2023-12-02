@@ -1,3 +1,4 @@
+<img style="float: left;" src="rss1.gif">
 ---
 title: "Neptune: Nonentangling trajectory planning for multiple tethered unmanned vehicles"
 collection: publications
