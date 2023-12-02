@@ -1,12 +1,3 @@
-<div style="clear: both;">
-  <div style="float: left; margin-right 1em;">
-    <img src="rss1.gif" alt="">
-  </div>
-  <div>
-    <h2>Some title text</h2>
-    <p>Some more text that will appear to the left of the image.</p>
-  </div>
-</div>
 ---
 title: "Path Planning for Multiple Tethered Robots Using Topological Braids"
 collection: publications
