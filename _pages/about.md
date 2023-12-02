@@ -37,7 +37,7 @@ Highlights
 
 <span style="color:#2E86C1; font-size: 1.1rem">Trajectory Planning for Multiple Tethered Unmanned Vehicles (T-RO)</span>
 
-<img style="float: left; margin-right: 1em; width:38%; height:170px; overflow: hidden;" src="images/rss2.gif" width="38%" height="5">
+<img style="float: left; margin-right: 1em; width:38%; height:170px; overflow: hidden;" src="images/rss2.gif">
 <div style="text-align: justify">We introduced a trajectory planning framework for multiple tethered unmanned vehicles. The framework lewverages a proposed representation of homotopy that efficiently captures the interactions among the robots, and generates trajectories in an online and decentralized manner.</div>\[[Paper](https://ieeexplore.ieee.org/document/10106112)\]\[[Video](https://youtu.be/8b1RlDvQsi0?si=5a1XaOBbJUw2tFsK)\]\[[Code](https://github.com/caomuqing/neptune)\]
 <hr style="border:3px light blue; text-align:center">
 
