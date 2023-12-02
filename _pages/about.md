@@ -13,28 +13,19 @@ Hi, I am a PhD at Nanyang Technological University. My research interests is in 
 Highlights
 ======
 
-<span style="color:blue">*Cooperative Aerial Robots Inspection Challenge (CARIC) @ CDC 2023*</span>.
+<span style="color:#2E86C1; font-size: 1.1rem">Cooperative Aerial Robots Inspection Challenge (CARIC) @ CDC 2023</span>
 
-**Cooperative Aerial Robots Inspection Challenge (CARIC) @ CDC 2023**
+<img style="float: left; margin-right: 1em" src="images/caric1.gif" width="40%" height="5">
+We have organized a [challenge](https://ntu-aris.github.io/caric/) to design comprehensive and efficient solutions for multi-UAV collaborative inspection of large structures. The challeng is simulation-based and the winners will be announced at [IEEE Conference on Decision and Control (CDC)](https://cdc2023.ieeecss.org/cooperative-aerial-robots-inspection-challenge/), Singapore, December 2023.
 
-<img style="float: left;" src="images/caric1.gif" width="30%">
 
-We have organized a challenge to design comprehensive and efficient solutions for multi-UAV collaborative inspection of large structures. The challeng is simulation-based and the winners will be announced at [IEEE Conference on Decision and Control (CDC)](https://cdc2023.ieeecss.org/cooperative-aerial-robots-inspection-challenge/), Singapore, December 2023. The challenge rules can be found [here](https://ntu-aris.github.io/caric/).
+<hr style="border:1px; light blue">
 
-<div style="text-align:center">
-  <img src="images/caric1.gif" alt="facade_inspection" width="100%"/>
-  <figcaption>CARIC software package can simulate UAV dynamics, physical collisions, camera-FOV-based instance detection, and line-of-sight-only communications</figcaption>
-</div>
+<span style="color:#2E86C1; font-size: 1.1rem">A New Hybrid Aerial-Ground Robot (IROS 2023)</span>
 
-<hr style="border:1px solid gray">
+<img style="float: left; margin-right: 1em" src="images/doublebee.gif" width="40%" height="5">
+We introduced a novel hybrid aerial-ground robot capable of climbing slope, flying over obstacles and crawling under barriers. **IROS Best Entertainment and Amusement Paper Award sponsored by JTCF**.  \[[Paper](https://arxiv.org/abs/2303.05075)\]\[[Video](https://youtu.be/hcw4GKmW_vs)\]
 
-**A New Hybrid Aerial-Ground Robot (IROS 2023)**
-
-We have introduced a novel hybrid aerial-ground robot capable of climbing slope, flying over obstacles and crawling under barriers. **IROS Best Entertainment and Amusement Paper Award sponsored by JTCF**.  \[[Paper](https://arxiv.org/abs/2303.05075)\]\[[Video](https://youtu.be/hcw4GKmW_vs)\]
-
-<div style="text-align:center">
-  <img src="images/doublebee.gif" alt="doublebee" width="100%"/>
-</div>
 
 <hr style="border:3px light blue">
 
