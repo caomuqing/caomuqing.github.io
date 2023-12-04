@@ -31,7 +31,7 @@ Highlights
 <span style="color:#2E86C1; font-size: 1.1rem">Planning for Multiple Tethered Robots Using Topological Braids (RSS 2023)</span>
 
 <img style="float: left; margin-right: 1em; width:38%; height:170px; overflow: hidden;" src="images/rss1.gif">
-<div style="text-align: justify">We proposed a path planning algorithm for multiple tethered robot with guaranteed non-entanglement, leveraging the theory of topological braids.</div><br>
+<div style="text-align: justify">We proposed a path planning algorithm for multiple tethered robot with guaranteed non-entanglement, leveraging the theory of topological braids.</div><br><br>
 \[[Paper](https://www.roboticsproceedings.org/rss19/p106.html)\]\[[Video](https://youtu.be/igP7eaOyZuc?si=JnqFPzdO9TdRhEz0)\]\[[Presentation](https://www.youtube.com/watch?v=0-WXg0hH5Co&t=4976s)\]\[[Code](https://github.com/caomuqing/tethered_robots_path_planning)\]
 <hr style="border:3px light blue; text-align:center">
 
