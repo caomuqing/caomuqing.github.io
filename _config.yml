@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Cao Muqing"
 title_separator          : "-"
 name                     : &name "Cao Muqing"
-description              : &description "Postdoc, Carnegie Mellon University\nPh.D, Nanyang Technological University"
+description              : &description "Postdoc, Carnegie Mellon University\n Ph.D, Nanyang Technological University"
 url                      : https://caomuqing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "caomuqing.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Cao Muqing"
   avatar           : "profile1.jpeg"
-  bio              : "Postdoc, Carnegie Mellon University\nPh.D, Nanyang Technological University"
+  bio              : "Postdoc, Carnegie Mellon University\n Ph.D, Nanyang Technological University"
   location         : "Pittsburgh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "muqing-cao"
   orcid            : "https://orcid.org/0000-0002-5867-5049"
   pinterest        :
   soundcloud       :
