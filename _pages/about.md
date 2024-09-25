@@ -12,7 +12,7 @@ Hi, I am a postdoctoral fellow at Robotics Institute, Carnegie Mellon University
 
 Highlights
 ======
-<span style="color:#C41230; font-size: 1.1rem">Learning Weighted Trajectory Planning in Crowd (Submitted to ICRA 2024)</span>
+<span style="color:#C41230; font-size: 1.1rem">Learning Weighted Trajectory Planning in Crowd (Submitted to ICRA 2025)</span>
 
 <img style="float: left; margin-right: 1em; width:30%; height:136px; overflow: hidden;" src="images/learning-planning.gif" width="38%" height="5">
 <div style="text-align: justify">we
