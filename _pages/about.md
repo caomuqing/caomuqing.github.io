@@ -23,6 +23,12 @@ News
 
 Highlights
 ======
+<span style="color:#C41230; font-size: 1.1rem">Trajectory Planning for Multiple Tethered Unmanned Vehicles (IEEE T-RO)</span>
+
+<img style="float: left; margin-right: 1em; width:30%; height:136px; overflow: hidden;" src="images/rss2.gif">
+<div style="text-align: justify">We introduced a trajectory planning framework for multiple tethered unmanned vehicles. The framework lewverages a proposed representation of homotopy that efficiently captures the interactions among the robots, and generates trajectories in an online and decentralized manner.</div>\[[Paper](https://ieeexplore.ieee.org/document/10106112)\]\[[Video](https://youtu.be/8b1RlDvQsi0?si=5a1XaOBbJUw2tFsK)\]\[[Code](https://github.com/caomuqing/neptune)\]
+<hr style="border:3px light blue; text-align:center">
+
 <span style="color:#C41230; font-size: 1.1rem">Learning Weighted Trajectory Planning in Crowd (Submitted to ICRA 2025)</span>
 
 <img style="float: left; margin-right: 1em; width:30%; height:136px; overflow: hidden;" src="images/learning-planning.gif" width="38%" height="5">
@@ -61,11 +67,6 @@ Highlights
 \[[Paper](https://www.roboticsproceedings.org/rss19/p106.html)\]\[[Video](https://youtu.be/igP7eaOyZuc?si=JnqFPzdO9TdRhEz0)\]\[[Presentation](https://www.youtube.com/watch?v=0-WXg0hH5Co&t=4976s)\]\[[Code](https://github.com/caomuqing/tethered_robots_path_planning)\]
 <hr style="border:3px light blue; text-align:center">
 
-<span style="color:#C41230; font-size: 1.1rem">Trajectory Planning for Multiple Tethered Unmanned Vehicles (IEEE T-RO)</span>
-
-<img style="float: left; margin-right: 1em; width:30%; height:136px; overflow: hidden;" src="images/rss2.gif">
-<div style="text-align: justify">We introduced a trajectory planning framework for multiple tethered unmanned vehicles. The framework lewverages a proposed representation of homotopy that efficiently captures the interactions among the robots, and generates trajectories in an online and decentralized manner.</div>\[[Paper](https://ieeexplore.ieee.org/document/10106112)\]\[[Video](https://youtu.be/8b1RlDvQsi0?si=5a1XaOBbJUw2tFsK)\]\[[Code](https://github.com/caomuqing/neptune)\]
-<hr style="border:3px light blue; text-align:center">
 
 <span style="color:#C41230; font-size: 1.1rem">Distributed Multi-Robot Sweep Coverage Control (T-SMC)</span>
 
