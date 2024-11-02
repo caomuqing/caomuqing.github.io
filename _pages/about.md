@@ -10,6 +10,17 @@ redirect_from:
 
 Hi, I am a postdoctoral fellow at Robotics Institute, Carnegie Mellon University. I obtained my PhD and bachelor degree from Nanyang Technology University, Singapore. My research interests are aerial robots, multi-robot planning, robot dynamics and control. If you are interested in my research, please contact me via email: caom0006 AT e.ntu.edu.sg
 
+News
+======
+<ul style="list-style-type: none; padding-left: 0; font-size: 0.9rem; line-height: 1.4;">
+    <li><strong>[2024/10]</strong> I have started a position as a postdoctor at <a href="https://theairlab.org/">CMU AirLab</a>!</li>
+    <li><strong>[2024/10]</strong> We successfully organized IROS 2024 Workshop and Competition on Multi-Robot Perception and Navigation Challenges in Logistics and Inspection Tasks (<a href="https://www.iros2024-cartin.com/">website</a>). Thanks to all speakers and participants! </li>
+    <li><strong>[2024/06]</strong> We are organizing the Cooperative Aerial Robots Inspection Challenge (CARIC) (<a href="https://ntu-aris.github.io/caric/">website</a>) in conjunction with IROS 2024 Workshop! .</li>
+    <li><strong>[2024/06]</strong> Our paper on a novel <a href="https://www.youtube.com/watch?v=Q1n-IiIt400"> hybrid aerial-ground manipulator</a> has been accepted by IROS 2024! .</li>    
+    <li><strong>[2023/10]</strong> Our paper on a novel <a href="https://youtu.be/hcw4GKmW_vs"> hybrid aerial-ground robot</a> has been awarded the <strong>IROS 2023 Best Entainment Paper</strong>! .</li>        
+    <li><strong>[2023/03]</strong> Our paper on <a href="https://ieeexplore.ieee.org/document/10106112"> trajectory planning multi-tethered robots</a> has been accepted bt <strong>T-RO</strong>! .</li>        
+</ul>
+
 Highlights
 ======
 <span style="color:#C41230; font-size: 1.1rem">Learning Weighted Trajectory Planning in Crowd (Submitted to ICRA 2025)</span>
@@ -67,3 +78,7 @@ We introduced a coverage control algorithm for multi-robot sweep coverage in a r
 We introduced a novel polynomial trajectory optimization algorithm leveraging differential dynamic programming. We have also released a solver-free implementation of the algorithm in the [package](https://github.com/ntu-caokun/DIRECT). The algorithm is verified using an UAV in indoor flight experiments. The paper is accepted by IEEE RA-L. \[[Paper](https://ieeexplore.ieee.org/document/9681227)\]\[[Video](https://youtu.be/BM8_ABM_2VM?si=NYmO9b82DaAmkFiN)\]\[[Code](https://github.com/ntu-caokun/DIRECT)\]
 
 <hr style="border:3px light blue; text-align:center">
+
+<div style="width: 300px; height: 200px; overflow: hidden;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RLTHMJODgsVMxCoP0v1Ov2xfZV6-EyjiNuJjykzEnR8&cl=ffffff&w=a"></script>
+</div>
