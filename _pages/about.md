@@ -8,18 +8,42 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a postdoctoral fellow at Robotics Institute, Carnegie Mellon University. I obtained my PhD and bachelor degree from Nanyang Technology University, Singapore. My research interests are aerial robots, multi-robot planning, robot dynamics and control. If you are interested in my research, please contact me via email: caom0006 AT e.ntu.edu.sg
+Hi, I am a postdoctoral fellow at Robotics Institute, Carnegie Mellon University. I obtained my PhD and bachelor degree from Nanyang Technology University, Singapore. My research interests are aerial robots, multi-robot planning, robot dynamics, and control. If you are interested in my research, please contact me via email: caom0006 AT e.ntu.edu.sg.
+
+<span style="background-color: yellow;">I am very interested in collaborating with/mentoring students in research. Please feel free to drop me an email and set up a call if you would like to discuss research problems or seek research guidance.</span>
 
 News
 ======
-<ul style="list-style-type: none; padding-left: 0; font-size: 0.9rem; line-height: 1.4;">
-    <li><strong>[2024/10]</strong> I have started a position as a postdoctor at <a href="https://theairlab.org/">CMU AirLab</a>!</li>
-    <li><strong>[2024/10]</strong> We successfully organized IROS 2024 Workshop and Competition on Multi-Robot Perception and Navigation Challenges in Logistics and Inspection Tasks (<a href="https://www.iros2024-cartin.com/">website</a>). Thanks to all speakers and participants! </li>
-    <li><strong>[2024/06]</strong> We are organizing the Cooperative Aerial Robots Inspection Challenge (CARIC) (<a href="https://ntu-aris.github.io/caric/">website</a>) in conjunction with IROS 2024 Workshop! .</li>
-    <li><strong>[2024/06]</strong> Our paper on a novel <a href="https://www.youtube.com/watch?v=Q1n-IiIt400"> hybrid aerial-ground manipulator</a> has been accepted by IROS 2024! .</li>    
-    <li><strong>[2023/10]</strong> Our paper on a novel <a href="https://youtu.be/hcw4GKmW_vs"> hybrid aerial-ground robot</a> has been awarded the <strong>IROS 2023 Best Entainment Paper</strong>! .</li>        
-    <li><strong>[2023/03]</strong> Our paper on <a href="https://ieeexplore.ieee.org/document/10106112"> trajectory planning multi-tethered robots</a> has been accepted bt <strong>T-RO</strong>! .</li>        
-</ul>
+<div style="max-height: 200px; overflow-y: auto; padding: 10px;">
+    <ul style="list-style-type: none; padding-left: 0; font-size: 0.9rem; line-height: 1.4; margin: 0;">
+        <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
+            <div style="flex: 0 0 80px; font-weight: bold;">2024/10</div>
+            <div style="flex: 1;">I have started a position as a postdoctor at <a href="https://theairlab.org/">CMU AirLab</a>!</div>
+        </li>
+        <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
+            <div style="flex: 0 0 80px; font-weight: bold;">2024/10</div>
+            <div style="flex: 1;">We successfully organized IROS 2024 Workshop and Competition on Multi-Robot Perception and Navigation Challenges in Logistics and Inspection Tasks (<a href="https://www.iros2024-cartin.com/">website</a>). Thanks to all speakers and participants!</div>
+        </li>
+        <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
+            <div style="flex: 0 0 80px; font-weight: bold;">2024/06</div>
+            <div style="flex: 1;">We are organizing the Cooperative Aerial Robots Inspection Challenge (CARIC) (<a href="https://ntu-aris.github.io/caric/">website</a>) in conjunction with IROS 2024 Workshop!</div>
+        </li>
+        <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
+            <div style="flex: 0 0 80px; font-weight: bold;">2024/06</div>
+            <div style="flex: 1;">Our paper on a novel <a href="https://www.youtube.com/watch?v=Q1n-IiIt400">hybrid aerial-ground manipulator</a> has been accepted by IROS 2024!</div>
+        </li>
+        <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
+            <div style="flex: 0 0 80px; font-weight: bold;">2023/10</div>
+            <div style="flex: 1;">Our paper on a novel <a href="https://youtu.be/hcw4GKmW_vs">hybrid aerial-ground robot</a> has been awarded the <strong>IROS 2023 Best Entertainment Paper</strong>!</div>
+        </li>
+        <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
+            <div style="flex: 0 0 80px; font-weight: bold;">2023/03</div>
+            <div style="flex: 1;">Our paper on <a href="https://ieeexplore.ieee.org/document/10106112">trajectory planning multi-tethered robots</a> has been accepted by <strong>T-RO</strong>!</div>
+        </li>
+    </ul>
+</div>
+
+<div style="height: 20px;"></div> <!-- Adds extra blank space -->
 
 Highlights
 ======
