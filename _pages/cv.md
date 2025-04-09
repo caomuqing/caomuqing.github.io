@@ -11,23 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng in Aerospace Engineering, Nanyang Technological University, 2017
+* Ph.D in Electrical and Electronics Engineering, Nanyang Technological University, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024-: Postdoctoral Fellow
+  * Robotics Institute, Carnegie Mellon University
+  * Supervisor: Prof. Sebastian Scherer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023-2024: Postdoctoral Fellow
+  * Nanyang Technological University
+  * Supervisor: Prof. Lihua Xie
+
+* 2017-2023: Research Assistant
+  * Nanyang Technological University
+  * Worked on several industrial projects with ST Engineering, BCA Singapore
+  * Supervisor: Prof. Lihua Xie
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
