@@ -18,6 +18,10 @@ News
     <ul style="list-style-type: none; padding-left: 0; font-size: 0.9rem; line-height: 1.4; margin: 0;">
         <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
             <div style="flex: 0 0 80px; font-weight: bold;">2025/04</div>
+            <div style="flex: 1;">I am selected as a <a href="https://roboticsconference.org/program/pioneers/">RSS Pioneer</a> 2025 (14.6% acceptance)!</div>
+        </li>
+        <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
+            <div style="flex: 0 0 80px; font-weight: bold;">2025/04</div>
             <div style="flex: 1;">I will serve as a co-chair of the session "Human Motion Sensing" at ICRA 2025!</div>
         </li>
         <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
