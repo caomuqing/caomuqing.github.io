@@ -5,8 +5,7 @@ permalink: /publication/2023-04-neptune
 excerpt: 'We have introduced a trajectory planning framework for multiple tethered unmanned vehicles. The framework lewverages a proposed representation of homotopy that efficiently captures the interactions among the robots, and generates trajectories in an online and decentralized manner. \[[Video](https://youtu.be/8b1RlDvQsi0?si=5a1XaOBbJUw2tFsK)\]\[[Code](https://github.com/caomuqing/neptune)\]'
 date: 2023-04-01
 venue: 'IEEE Transactions on Robotics'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10106112'
-teaser: 'images/rss2.gif'
+paperurl: 'https://ieeexplore.ieee.org/document/10106112'
 authors: '**Cao, M.**, Cao, K., Yuan, S., Nguyen, T.M. and Xie, L.'
 break: 'yes'
 

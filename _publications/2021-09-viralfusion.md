@@ -5,7 +5,7 @@ permalink: /publication/2021-07-viral
 excerpt: 'We propose a comprehensive optimization-based estimator for the 15-D state of an unmanned aerial vehicle (UAV), fusing data from an extensive set of sensors: inertial measurement unit (IMU), ultrawideband (UWB) ranging sensors, and multiple onboard visual-inertial and lidar odometry subsystems.'
 date: 2021-07-30
 venue: 'IEEE Transactions on Robotics'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/9502143'
+paperurl: 'https://ieeexplore.ieee.org/document/9502143'
 authors: 'Nguyen, T.M., **Cao, M.**, Yuan, S., Lyu, Y., Nguyen, T.H. and Xie, L.'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

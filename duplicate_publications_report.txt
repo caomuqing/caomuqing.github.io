@@ -1,0 +1,43 @@
+DUPLICATE PUBLICATIONS REPORT
+==================================================
+
+Exact Title Duplicates:
+Title: Path Planning for Multiple Tethered Robots Using Topological Braids
+  - 2010-07-RSS.md | Robotics: Science and Systems | 2023-07-01
+  - 2023-06-rss-cao.md | Robotics: Science and Systems 2023 | 2023-06-01
+
+Title: DoubleBee: A Hybrid Aerial-Ground Robot with Two Active Wheels
+  - 2015-10-IROS.md | IEEE/RSJ International Conference on Intelligent Robots and Systems | 2023-11-01
+  - 2023-10-iros-cao.md | IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) | 2023-10-01
+
+Title: DIRECT: A Differential Dynamic Programming Based Framework for Trajectory Generation
+  - 2021-06-ral-cao.md | IEEE Robotics and Automation Letters | 2021-06-01
+  - 2022-01-ral.md | IEEE Robotics and Automation Letters | 2022-01-01
+
+Title: Neptune: Nonentangling trajectory planning for multiple tethered unmanned vehicles
+  - 2023-01-tro-cao.md | IEEE Transactions on Robotics | 2023-01-01
+  - 2023-04-neptune.md | IEEE Transactions on Robotics | 2023-04-01
+
+Title: Distributed Control of Multirobot Sweep Coverage Over a Region With Unknown Workload Distribution
+  - 2023-03-tsmc.md | IEEE Transactions on Systems, Man, and Cybernetics: Systems | 2023-03-01
+  - 2023-06-tsmc-cao.md | IEEE Transactions on Systems, Man, and Cybernetics: Systems | 2023-06-01
+
+Similar Titles:
+  - 2010-07-RSS.md: Path Planning for Multiple Tethered Robots Using Topological Braids
+  - 2023-06-rss-cao.md: Path Planning for Multiple Tethered Robots Using Topological Braids
+
+  - 2015-10-IROS.md: DoubleBee: A Hybrid Aerial-Ground Robot with Two Active Wheels
+  - 2023-10-iros-cao.md: DoubleBee: A Hybrid Aerial-Ground Robot with Two Active Wheels
+
+  - 2019-05-icra-nguyen.md: Integrated UWB-vision approach for autonomous docking of UAVs in GPS-denied environments
+  - 2019-05-icra.md: Integrated UWB-Vision Approach for Autonomous Docking of UAVs in GPS-denied Environments
+
+  - 2021-06-ral-cao.md: DIRECT: A Differential Dynamic Programming Based Framework for Trajectory Generation
+  - 2022-01-ral.md: DIRECT: A Differential Dynamic Programming Based Framework for Trajectory Generation
+
+  - 2023-01-tro-cao.md: Neptune: Nonentangling trajectory planning for multiple tethered unmanned vehicles
+  - 2023-04-neptune.md: Neptune: Nonentangling trajectory planning for multiple tethered unmanned vehicles
+
+  - 2023-03-tsmc.md: Distributed Control of Multirobot Sweep Coverage Over a Region With Unknown Workload Distribution
+  - 2023-06-tsmc-cao.md: Distributed Control of Multirobot Sweep Coverage Over a Region With Unknown Workload Distribution
+

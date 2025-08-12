@@ -1,0 +1,103 @@
+{% include base_path %}
+
+<div class="publication-card">
+  <h3 class="publication-title">
+    <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+  </h3>
+  
+  {% if post.authors %}
+    <div class="publication-authors">{{ post.authors | markdownify | replace: '**Cao, M.**', '<span class="author-highlight">**Cao, M.**</span>' }}</div>
+  {% endif %}
+  
+  {% if post.venue %}
+    <div class="publication-venue">
+      {{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+    </div>
+  {% endif %}
+  
+  <div class="publication-links">
+    {% comment %} Check central configuration first, then fall back to post.paperurl {% endcomment %}
+    {% assign paper_info = site.data.paper_links.papers[post.title] %}
+    
+    {% if paper_info and paper_info.url %}
+      <a href="{{ paper_info.url }}" class="publication-link paper" target="_blank">
+        <i class="fa fa-file-text-o"></i> Paper
+      </a>
+      {% if paper_info.doi %}
+        <a href="https://doi.org/{{ paper_info.doi }}" class="publication-link doi" target="_blank">
+          <i class="fa fa-external-link"></i> DOI
+        </a>
+      {% endif %}
+    {% elsif post.paperurl %}
+      <a href="{{ post.paperurl }}" class="publication-link paper" target="_blank">
+        <i class="fa fa-file-text-o"></i> Paper
+      </a>
+    {% endif %}
+    
+    {% comment %} Video links from central configuration {% endcomment %}
+    {% if paper_info and paper_info.videos and paper_info.videos.size > 0 %}
+      {% for video in paper_info.videos %}
+        <a href="{{ video }}" class="publication-link video" target="_blank">
+          <i class="fa fa-video-camera"></i> Video
+        </a>
+      {% endfor %}
+    {% elsif post.excerpt contains 'Video' or post.content contains 'Video' %}
+      <a href="#" class="publication-link video" onclick="extractVideoLink('{{ post.excerpt | append: post.content | escape }}')">
+        <i class="fa fa-video-camera"></i> Video
+      </a>
+    {% endif %}
+    
+    {% comment %} Code links from central configuration {% endcomment %}
+    {% if paper_info and paper_info.code and paper_info.code.size > 0 %}
+      {% for code in paper_info.code %}
+        <a href="{{ code }}" class="publication-link code" target="_blank">
+          <i class="fa fa-code"></i> Code
+        </a>
+      {% endfor %}
+    {% elsif post.excerpt contains 'Code' or post.content contains 'Code' %}
+      <a href="#" class="publication-link code" onclick="extractCodeLink('{{ post.excerpt | append: post.content | escape }}')">
+        <i class="fa fa-code"></i> Code
+      </a>
+    {% endif %}
+    
+    {% comment %} Presentation links from central configuration {% endcomment %}
+    {% if paper_info and paper_info.presentations and paper_info.presentations.size > 0 %}
+      {% for presentation in paper_info.presentations %}
+        <a href="{{ presentation }}" class="publication-link video" target="_blank">
+          <i class="fa fa-play-circle"></i> Presentation
+        </a>
+      {% endfor %}
+    {% elsif post.excerpt contains 'Presentation' or post.content contains 'Presentation' %}
+      <a href="#" class="publication-link video" onclick="extractPresentationLink('{{ post.excerpt | append: post.content | escape }}')">
+        <i class="fa fa-play-circle"></i> Presentation
+      </a>
+    {% endif %}
+    
+    <a href="{{ base_path }}{{ post.url }}" class="publication-link">
+      <i class="fa fa-info-circle"></i> Details
+    </a>
+  </div>
+</div>
+
+<script>
+function extractVideoLink(content) {
+  const videoMatch = content.match(/\[Video\]\(([^)]+)\)/);
+  if (videoMatch) {
+    window.open(videoMatch[1], '_blank');
+  }
+}
+
+function extractCodeLink(content) {
+  const codeMatch = content.match(/\[Code\]\(([^)]+)\)/);
+  if (codeMatch) {
+    window.open(codeMatch[1], '_blank');
+  }
+}
+
+function extractPresentationLink(content) {
+  const presentationMatch = content.match(/\[Presentation\]\(([^)]+)\)/);
+  if (presentationMatch) {
+    window.open(presentationMatch[1], '_blank');
+  }
+}
+</script> 

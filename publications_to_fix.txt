@@ -1,0 +1,268 @@
+PUBLICATIONS REQUIRING CORRECT LINKS
+============================================================
+
+INSTRUCTIONS:
+1. For each publication below, search Google Scholar for the title
+2. Find the correct paper and copy its DOI/link
+3. Update the publication file with the correct link
+
+============================================================
+
+ 1. 2010-07-RSS.md
+    Title: Path Planning for Multiple Tethered Robots Using Topological Braids
+    Current URL: https://www.roboticsproceedings.org/rss19/p106.html
+    Google Scholar Search: https://scholar.google.com/scholar?q=Path+Planning+for+Multiple+Tethered+Robots+Using+Topological+Braids
+------------------------------------------------------------
+
+ 2. 2015-10-IROS.md
+    Title: DoubleBee: A Hybrid Aerial-Ground Robot with Two Active Wheels
+    Current URL: https://arxiv.org/abs/2303.05075
+    Google Scholar Search: https://scholar.google.com/scholar?q=DoubleBee%3A+A+Hybrid+Aerial-Ground+Robot+with+Two+Active+Wheels
+------------------------------------------------------------
+
+ 3. 2018-06-icca-wang.md
+    Title: Feasible computationally efficient path planning for UAV collision avoidance
+    Current URL: https://ieeexplore.ieee.org/document/8448750
+    Google Scholar Search: https://scholar.google.com/scholar?q=Feasible+computationally+efficient+path+planning+for+UAV+collision+avoidance
+------------------------------------------------------------
+
+ 4. 2018-10-iros-nguyen.md
+    Title: An integrated localization-navigation scheme for distance-based docking of UAVs
+    Current URL: https://ieeexplore.ieee.org/document/8594394
+    Google Scholar Search: https://scholar.google.com/scholar?q=An+integrated+localization-navigation+scheme+for+distance-based+docking+of+UAVs
+------------------------------------------------------------
+
+ 5. 2018-11-icarcv-nguyen.md
+    Title: Post-mission autonomous return and precision landing of UAV
+    Current URL: https://ieeexplore.ieee.org/document/8581224
+    Google Scholar Search: https://scholar.google.com/scholar?q=Post-mission+autonomous+return+and+precision+landing+of+UAV
+------------------------------------------------------------
+
+ 6. 2019-04-tro-nguyen.md
+    Title: Persistently excited adaptive relative localization and time-varying formation of robot swarms
+    Current URL: https://ieeexplore.ieee.org/document/8754567
+    Google Scholar Search: https://scholar.google.com/scholar?q=Persistently+excited+adaptive+relative+localization+and+time-varying+formation+of+robot+swarms
+------------------------------------------------------------
+
+ 7. 2019-05-icra-nguyen.md
+    Title: Integrated UWB-vision approach for autonomous docking of UAVs in GPS-denied environments
+    Current URL: https://ieeexplore.ieee.org/document/8794274
+    Google Scholar Search: https://scholar.google.com/scholar?q=Integrated+UWB-vision+approach+for+autonomous+docking+of+UAVs+in+GPS-denied+environments
+------------------------------------------------------------
+
+ 8. 2019-05-icra.md
+    Title: Integrated UWB-Vision Approach for Autonomous Docking of UAVs in GPS-denied Environments
+    Current URL: https://ieeexplore.ieee.org/document/8793851
+    Google Scholar Search: https://scholar.google.com/scholar?q=Integrated+UWB-Vision+Approach+for+Autonomous+Docking+of+UAVs+in+GPS-denied+Environments
+------------------------------------------------------------
+
+ 9. 2019-08-ral-nguyen.md
+    Title: Distance-based cooperative relative localization for leader-following control of MAVs
+    Current URL: https://ieeexplore.ieee.org/document/8754568
+    Google Scholar Search: https://scholar.google.com/scholar?q=Distance-based+cooperative+relative+localization+for+leader-following+control+of+MAVs
+------------------------------------------------------------
+
+10. 2019-09-tcst-nguyen.md
+    Title: Single landmark distance-based navigation
+    Current URL: https://ieeexplore.ieee.org/document/8754569
+    Google Scholar Search: https://scholar.google.com/scholar?q=Single+landmark+distance-based+navigation
+------------------------------------------------------------
+
+11. 2020-06-icca-cao.md
+    Title: Online trajectory correction and tracking for facade inspection using autonomous UAV
+    Current URL: https://ieeexplore.ieee.org/document/9263093
+    Google Scholar Search: https://scholar.google.com/scholar?q=Online+trajectory+correction+and+tracking+for+facade+inspection+using+autonomous+UAV
+------------------------------------------------------------
+
+12. 2020-12-uns-nguyen.md
+    Title: Loosely-coupled ultra-wideband-aided scale correction for monocular visual odometry
+    Current URL: https://www.worldscientific.com/doi/10.1142/S2301385020500120
+    Google Scholar Search: https://scholar.google.com/scholar?q=Loosely-coupled+ultra-wideband-aided+scale+correction+for+monocular+visual+odometry
+------------------------------------------------------------
+
+13. 2021-05-ais-cao.md
+    Title: Distributed multi-robot sweep coverage for a region with unknown workload distribution
+    Current URL: https://link.springer.com/article/10.1007/s43684-021-00013-z
+    Google Scholar Search: https://scholar.google.com/scholar?q=Distributed+multi-robot+sweep+coverage+for+a+region+with+unknown+workload+distribution
+------------------------------------------------------------
+
+14. 2021-05-icra-nguyen.md
+    Title: LIRO: Tightly coupled lidar-inertia-ranging odometry
+    Current URL: https://ieeexplore.ieee.org/document/9561268
+    Google Scholar Search: https://scholar.google.com/scholar?q=LIRO%3A+Tightly+coupled+lidar-inertia-ranging+odometry
+------------------------------------------------------------
+
+15. 2021-06-ral-cao.md
+    Title: DIRECT: A Differential Dynamic Programming Based Framework for Trajectory Generation
+    Current URL: https://ieeexplore.ieee.org/document/9681228
+    Google Scholar Search: https://scholar.google.com/scholar?q=DIRECT%3A+A+Differential+Dynamic+Programming+Based+Framework+for+Trajectory+Generation
+------------------------------------------------------------
+
+16. 2021-06-ral-nguyen.md
+    Title: MILIOM: Tightly coupled multi-input lidar-inertia odometry and mapping
+    Current URL: https://ieeexplore.ieee.org/document/9484568
+    Google Scholar Search: https://scholar.google.com/scholar?q=MILIOM%3A+Tightly+coupled+multi-input+lidar-inertia+odometry+and+mapping
+------------------------------------------------------------
+
+17. 2021-09-viralfusion.md
+    Title: Viral-fusion: A visual-inertial-ranging-lidar sensor fusion approach
+    Current URL: https://ieeexplore.ieee.org/document/9502143
+    Google Scholar Search: https://scholar.google.com/scholar?q=Viral-fusion%3A+A+visual-inertial-ranging-lidar+sensor+fusion+approach
+------------------------------------------------------------
+
+18. 2022-01-ral.md
+    Title: DIRECT: A Differential Dynamic Programming Based Framework for Trajectory Generation
+    Current URL: https://ieeexplore.ieee.org/document/9681227
+    Google Scholar Search: https://scholar.google.com/scholar?q=DIRECT%3A+A+Differential+Dynamic+Programming+Based+Framework+for+Trajectory+Generation
+------------------------------------------------------------
+
+19. 2022-03-ijrr-nguyen.md
+    Title: NTU VIRAL: A visual-inertial-ranging-lidar dataset, from an aerial vehicle viewpoint
+    Current URL: https://journals.sagepub.com/doi/10.1177/02783649211069535
+    Google Scholar Search: https://scholar.google.com/scholar?q=NTU+VIRAL%3A+A+visual-inertial-ranging-lidar+dataset%2C+from+an+aerial+vehicle+viewpoint
+------------------------------------------------------------
+
+20. 2023-01-tro-cao.md
+    Title: Neptune: Nonentangling trajectory planning for multiple tethered unmanned vehicles
+    Current URL: https://ieeexplore.ieee.org/document/10106112
+    Google Scholar Search: https://scholar.google.com/scholar?q=Neptune%3A+Nonentangling+trajectory+planning+for+multiple+tethered+unmanned+vehicles
+------------------------------------------------------------
+
+21. 2023-03-ctt-cao.md
+    Title: System identification and control of the ground operation mode of a hybrid aerial--ground robot
+    Current URL: https://link.springer.com/article/10.1007/s11768-023-00126-1
+    Google Scholar Search: https://scholar.google.com/scholar?q=System+identification+and+control+of+the+ground+operation+mode+of+a+hybrid+aerial--ground+robot
+------------------------------------------------------------
+
+22. 2023-03-tsmc.md
+    Title: Distributed Control of Multirobot Sweep Coverage Over a Region With Unknown Workload Distribution
+    Current URL: https://ieeexplore.ieee.org/document/10168204
+    Google Scholar Search: https://scholar.google.com/scholar?q=Distributed+Control+of+Multirobot+Sweep+Coverage+Over+a+Region+With+Unknown+Workload+Distribution
+------------------------------------------------------------
+
+23. 2023-04-neptune.md
+    Title: Neptune: Nonentangling trajectory planning for multiple tethered unmanned vehicles
+    Current URL: https://ieeexplore.ieee.org/document/10106112
+    Google Scholar Search: https://scholar.google.com/scholar?q=Neptune%3A+Nonentangling+trajectory+planning+for+multiple+tethered+unmanned+vehicles
+------------------------------------------------------------
+
+24. 2023-06-rss-cao.md
+    Title: Path Planning for Multiple Tethered Robots Using Topological Braids
+    Current URL: https://www.roboticsproceedings.org/rss19/p106.html
+    Google Scholar Search: https://scholar.google.com/scholar?q=Path+Planning+for+Multiple+Tethered+Robots+Using+Topological+Braids
+------------------------------------------------------------
+
+25. 2023-06-tcyb-cao.md
+    Title: Similar Formation Control via Range and Odometry Measurements
+    Current URL: https://ieeexplore.ieee.org/document/10168203
+    Google Scholar Search: https://scholar.google.com/scholar?q=Similar+Formation+Control+via+Range+and+Odometry+Measurements
+------------------------------------------------------------
+
+26. 2023-06-tsmc-cao.md
+    Title: Distributed Control of Multirobot Sweep Coverage Over a Region With Unknown Workload Distribution
+    Current URL: https://ieeexplore.ieee.org/document/10168201
+    Google Scholar Search: https://scholar.google.com/scholar?q=Distributed+Control+of+Multirobot+Sweep+Coverage+Over+a+Region+With+Unknown+Workload+Distribution
+------------------------------------------------------------
+
+27. 2023-07-tsmc-lyu.md
+    Title: Vision-Based Plane Estimation and Following for Building Inspection With Autonomous UAV
+    Current URL: https://ieeexplore.ieee.org/document/10168202
+    Google Scholar Search: https://scholar.google.com/scholar?q=Vision-Based+Plane+Estimation+and+Following+for+Building+Inspection+With+Autonomous+UAV
+------------------------------------------------------------
+
+28. 2023-08-jfr-lyu.md
+    Title: SPINS: A structure priors aided inertial navigation system
+    Current URL: https://onlinelibrary.wiley.com/doi/10.1002/rob.22158
+    Google Scholar Search: https://scholar.google.com/scholar?q=SPINS%3A+A+structure+priors+aided+inertial+navigation+system
+------------------------------------------------------------
+
+29. 2023-10-iros-cao.md
+    Title: DoubleBee: A Hybrid Aerial-Ground Robot with Two Active Wheels
+    Current URL: https://arxiv.org/abs/2303.05075
+    Google Scholar Search: https://scholar.google.com/scholar?q=DoubleBee%3A+A+Hybrid+Aerial-Ground+Robot+with+Two+Active+Wheels
+------------------------------------------------------------
+
+30. 2023-10-iros-yang.md
+    Title: AV-PedAware: Self-Supervised Audio-Visual Fusion for Dynamic Pedestrian Awareness
+    Current URL: https://ieeexplore.ieee.org/document/10342257
+    Google Scholar Search: https://scholar.google.com/scholar?q=AV-PedAware%3A+Self-Supervised+Audio-Visual+Fusion+for+Dynamic+Pedestrian+Awareness
+------------------------------------------------------------
+
+31. 2023-12-tmech-liu.md
+    Title: DLC-SLAM: A Robust LiDAR-SLAM System With Learning-Based Denoising and Loop Closure
+    Current URL: https://ieeexplore.ieee.org/document/10092189
+    Google Scholar Search: https://scholar.google.com/scholar?q=DLC-SLAM%3A+A+Robust+LiDAR-SLAM+System+With+Learning-Based+Denoising+and+Loop+Closure
+------------------------------------------------------------
+
+32. 2024-04-icca-xu.md
+    Title: A Cost-Effective Cooperative Exploration and Inspection Strategy for Heterogeneous Aerial System
+    Current URL: https://ieeexplore.ieee.org/document/10591842
+    Google Scholar Search: https://scholar.google.com/scholar?q=A+Cost-Effective+Cooperative+Exploration+and+Inspection+Strategy+for+Heterogeneous+Aerial+System
+------------------------------------------------------------
+
+33. 2024-04-isprs-li.md
+    Title: HCTO: Optimality-aware LiDAR inertial odometry with hybrid continuous time optimization for compact wearable mapping system
+    Current URL: https://www.sciencedirect.com/science/article/pii/S092427162400162X
+    Google Scholar Search: https://scholar.google.com/scholar?q=HCTO%3A+Optimality-aware+LiDAR+inertial+odometry+with+hybrid+continuous+time+optimization+for+compact+wearable+mapping+system
+------------------------------------------------------------
+
+34. 2024-04-ral-zheng.md
+    Title: CapsuleBot: A Novel Hybrid Aerial-Ground Bi-Copter Robot With Two Actuated-Wheel-Rotors
+    Current URL: https://ieeexplore.ieee.org/document/10896857
+    Google Scholar Search: https://scholar.google.com/scholar?q=CapsuleBot%3A+A+Novel+Hybrid+Aerial-Ground+Bi-Copter+Robot+With+Two+Actuated-Wheel-Rotors
+------------------------------------------------------------
+
+35. 2024-06-jai-yang.md
+    Title: AV-FDTI: Audio-visual fusion for drone threat identification
+    Current URL: https://www.sciencedirect.com/science/article/pii/S2949855424000286
+    Google Scholar Search: https://scholar.google.com/scholar?q=AV-FDTI%3A+Audio-visual+fusion+for+drone+threat+identification
+------------------------------------------------------------
+
+36. 2024-10-iros-cao.md
+    Title: AirCrab: A Hybrid Aerial-Ground Manipulator with An Active Wheel
+    Current URL: https://arxiv.org/abs/2403.15805
+    Google Scholar Search: https://scholar.google.com/scholar?q=AirCrab%3A+A+Hybrid+Aerial-Ground+Manipulator+with+An+Active+Wheel
+------------------------------------------------------------
+
+37. 2024-12-jai-xu.md
+    Title: A data-driven control method for ground locomotion on sloped terrain of a hybrid aerial-ground robot
+    Current URL: https://www.sciencedirect.com/science/article/pii/S2949855424000285
+    Google Scholar Search: https://scholar.google.com/scholar?q=A+data-driven+control+method+for+ground+locomotion+on+sloped+terrain+of+a+hybrid+aerial-ground+robot
+------------------------------------------------------------
+
+38. 2025-01-icra-cao.md
+    Title: Learning Dynamic Weight Adjustment for Spatial-Temporal Trajectory Planning in Crowd Navigation
+    Current URL: https://arxiv.org/abs/2412.00555
+    Google Scholar Search: https://scholar.google.com/scholar?q=Learning+Dynamic+Weight+Adjustment+for+Spatial-Temporal+Trajectory+Planning+in+Crowd+Navigation
+------------------------------------------------------------
+
+39. 2025-01-icra-liao.md
+    Title: AToM: Adaptive Theory-of-Mind-Based Human Motion Prediction in Long-Term Human-Robot Interactions
+    Current URL: https://arxiv.org/abs/2412.00556
+    Google Scholar Search: https://scholar.google.com/scholar?q=AToM%3A+Adaptive+Theory-of-Mind-Based+Human+Motion+Prediction+in+Long-Term+Human-Robot+Interactions
+------------------------------------------------------------
+
+40. 2025-01-iros-baek.md
+    Title: PIPE Planner: Pathwise Information Gain with Map Predictions for Indoor Robot Exploration
+    Current URL: https://arxiv.org/abs/2412.00557
+    Google Scholar Search: https://scholar.google.com/scholar?q=PIPE+Planner%3A+Pathwise+Information+Gain+with+Map+Predictions+for+Indoor+Robot+Exploration
+------------------------------------------------------------
+
+41. 2025-01-ral-liao.md
+    Title: Following Is All You Need: Robot Crowd Navigation Using People As Planners
+    Current URL: https://arxiv.org/abs/2412.00558
+    Google Scholar Search: https://scholar.google.com/scholar?q=Following+Is+All+You+Need%3A+Robot+Crowd+Navigation+Using+People+As+Planners
+------------------------------------------------------------
+
+42. 2025-01-ram-cao.md
+    Title: Cooperative Aerial Robot Inspection Challenge: A Benchmark for Heterogeneous Multi-Uncrewed-Aerial-Vehicle Planning and Lessons Learned
+    Current URL: https://ieeexplore.ieee.org/document/3584341
+    Google Scholar Search: https://scholar.google.com/scholar?q=Cooperative+Aerial+Robot+Inspection+Challenge%3A+A+Benchmark+for+Heterogeneous+Multi-Uncrewed-Aerial-Vehicle+Planning+and+Lessons+Learned
+------------------------------------------------------------
+
+43. 2025-01-tro-chen.md
+    Title: Relative localizability and localization for multi-robot systems
+    Current URL: https://ieeexplore.ieee.org/document/10896856
+    Google Scholar Search: https://scholar.google.com/scholar?q=Relative+localizability+and+localization+for+multi-robot+systems
+------------------------------------------------------------
+

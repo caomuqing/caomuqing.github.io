@@ -17,8 +17,16 @@ News
 <div style="max-height: 200px; overflow-y: auto; padding: 10px;">
     <ul style="list-style-type: none; padding-left: 0; font-size: 0.9rem; line-height: 1.4; margin: 0;">
         <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
+            <div style="flex: 0 0 80px; font-weight: bold;">2025/07</div>
+            <div style="flex: 1;">We are organizing the IROS 2025 <a href="https://www.panlogin.com/">2nd Workshop and Competition on Multi-Robot Perception and Navigation Challenges in Logistics and Inspection Tasks</a>!</div>
+        </li>
+        <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
+            <div style="flex: 0 0 80px; font-weight: bold;">2025/06</div>
+            <div style="flex: 1;">One paper and one workshop proposal accepted to IROS 2025!</div>
+        </li>        
+        <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
             <div style="flex: 0 0 80px; font-weight: bold;">2025/04</div>
-            <div style="flex: 1;">I am selected as a <a href="https://roboticsconference.org/program/pioneers/">RSS Pioneer</a> 2025 (14.6% acceptance)!</div>
+            <div style="flex: 1;">I am selected as a <a href="https://sites.google.com/view/rsspioneers2025/participants">RSS Pioneer</a> 2025 (14.6% acceptance)!</div>
         </li>
         <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
             <div style="flex: 0 0 80px; font-weight: bold;">2025/04</div>
@@ -26,7 +34,7 @@ News
         </li>
         <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
             <div style="flex: 0 0 80px; font-weight: bold;">2025/01</div>
-            <div style="flex: 1;">Four papers accepted at ICRA 2025!</div>
+            <div style="flex: 1;">Four papers accepted to ICRA 2025!</div>
         </li>
         <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
             <div style="flex: 0 0 80px; font-weight: bold;">2024/10</div>
@@ -57,65 +65,280 @@ News
 
 <div style="height: 20px;"></div> <!-- Adds extra blank space -->
 
-Highlights (first-author works)
-======
-<span style="color:#C41230; font-size: 1.1rem">Trajectory Planning for Multiple Tethered Unmanned Vehicles (IEEE T-RO)</span>
+## Research Highlights
 
-<img style="float: left; margin-right: 1em; width:30%; height:136px; overflow: hidden;" src="images/rss2.gif">
-<div style="text-align: justify">We introduced a trajectory planning framework for multiple tethered unmanned vehicles. The framework lewverages a proposed representation of homotopy that efficiently captures the interactions among the robots, and generates trajectories in an online and decentralized manner.</div>\[[Paper](https://ieeexplore.ieee.org/document/10106112)\]\[[Video](https://youtu.be/8b1RlDvQsi0?si=5a1XaOBbJUw2tFsK)\]\[[Code](https://github.com/caomuqing/neptune)\]
-<hr style="border:3px light blue; text-align:center">
+<div class="publication-item">
+  <div class="publication-image">
+    <img src="images/caric1.gif" alt="CARIC Challenge">
+  </div>
+  <div class="publication-content">
+    <h3 class="publication-title">Cooperative Aerial Robot Inspection Challenge: A Benchmark for Heterogeneous Multi-Uncrewed-Aerial-Vehicle Planning and Lessons Learned</h3>
+    <p class="publication-authors"><strong>Cao, M.</strong>, Nguyen, T.M., Yuan, S., Anastasiou, A., Zacharia, A., Papaioannou, S., Kolios, P., Panayiotou, C.G., Polycarpou, M.M., Xu, X., Zhang, M., Gao, F., Zhou, B., Chen, B.M. and Xie, L.</p>
+    <p class="publication-venue">IEEE Robotics & Automation Magazine (RA-M) 2025</p>
+    <div class="publication-links">
+      <a href="https://arxiv.org/abs/2501.06566" target="_blank">Paper</a> |
+      <a href="https://www.youtube.com/watch?v=8u5hj2oZ-VY" target="_blank">Video</a> |
+      <a href="https://ntu-aris.github.io/caric/" target="_blank">Challenge</a>
+    </div>
+  </div>
+</div>
 
-<span style="color:#C41230; font-size: 1.1rem">Learning Weighted Trajectory Planning in Crowd (ICRA 2025)</span>
-
-<img style="float: left; margin-right: 1em; width:30%; height:136px; overflow: hidden;" src="images/learning-planning.gif" width="38%" height="5">
-<div style="text-align: justify">we
-      propose a dynamic weight adjustment scheme using a neural network to predict the optimal weights of objectives in an optimization-based motion planner.</div><br>
-\[[Paper](https://arxiv.org/abs/2412.00555)\]\[[Video](https://www.youtube.com/watch?v=nSCbNaaF_VM)\]
-<br>
-<hr style="border:3px light blue; text-align:center">
-
-<span style="color:#C41230; font-size: 1.1rem">Cooperative Aerial Robots Inspection Challenge (CARIC) @ IROS 2024 & CDC 2023</span>
-
-<img style="float: left; margin-right: 1em; width:30%; height:136px; overflow: hidden;" src="images/caric1.gif" width="38%" height="5">
-<div style="text-align: justify">We have organized a simulation-based <a href="https://ntu-aris.github.io/caric/">challenge</a> to design efficient solutions for multi-UAV collaborative inspection of large structures. The challenge has been successfully organized at IROS 2024 and CDC 2023.</div>
-\[[Paper](https://arxiv.org/abs/2501.06566)\]\[[Video](https://www.youtube.com/watch?v=8u5hj2oZ-VY)\]\[[Challenge Rules](https://ntu-aris.github.io/caric/)\]
-<hr style="border:3px light blue; text-align:center">
-
-<span style="color:#C41230; font-size: 1.1rem">AirCrab: A Hybrid Aerial-Ground Manipulator (IROS 2024)</span>
-
-<img style="float: left; margin-right: 1em; width:30%; height:136px; overflow: hidden;" src="images/aircrab.gif" width="38%" height="5">
-<div style="text-align: justify">AirCrab is a hybrid aerial ground manipulator (HAGM) with an active wheel and a 3-DoF manipulator. AirCrab leverages a single point of contact with the ground to reduce position drift and improve manipulation accuracy.</div>
-\[[Paper](https://arxiv.org/abs/2403.15805)\]\[[Video](https://www.youtube.com/watch?v=Q1n-IiIt400)\]
-<hr style="border:3px light blue; text-align:center">
-
-<span style="color:#C41230; font-size: 1.1rem">A New Hybrid Aerial-Ground Robot (IROS 2023 Best Entertainment Paper)</span>
-
-<img style="float: left; margin-right: 1em; width:30%; height:136px; overflow: hidden;" src="images/doublebee1.gif" width="38%" height="5">
-<div style="text-align: justify">We introduced a novel hybrid aerial-ground robot capable of climbing slope, flying over obstacles and crawling under barriers. <strong>IROS Best Entertainment and Amusement Paper Award</strong> sponsored by JTCF.</div>
-\[[Paper](https://arxiv.org/abs/2303.05075)\]\[[Video](https://youtu.be/hcw4GKmW_vs)\]
-<br>
-<hr style="border:3px light blue; text-align:center">
-
-<span style="color:#C41230; font-size: 1.1rem">Planning for Multiple Tethered Robots Using Topological Braids (RSS 2023)</span>
-
-<img style="float: left; margin-right: 1em; width:30%; height:136px; overflow: hidden;" src="images/rss1.gif">
-<div style="text-align: justify">We proposed a path planning algorithm for multiple tethered robot with guaranteed non-entanglement, leveraging the theory of topological braids.</div><br>
-\[[Paper](https://www.roboticsproceedings.org/rss19/p106.html)\]\[[Video](https://youtu.be/igP7eaOyZuc?si=JnqFPzdO9TdRhEz0)\]\[[Presentation](https://www.youtube.com/watch?v=0-WXg0hH5Co&t=4976s)\]\[[Code](https://github.com/caomuqing/tethered_robots_path_planning)\]
-<hr style="border:3px light blue; text-align:center">
+<div class="publication-item">
+  <div class="publication-image">
+    <img src="images/learning-planning.gif" alt="Learning Planning">
+  </div>
+  <div class="publication-content">
+    <h3 class="publication-title">Learning Dynamic Weight Adjustment for Spatial-Temporal Trajectory Planning in Crowd Navigation</h3>
+    <p class="publication-authors"><strong>Cao, M.</strong>, Xu, X., Yang, Y., Li, J., Jin, T., Wang, P., Hung, T.Y., Lin, G. and Xie, L.</p>
+    <p class="publication-venue">IEEE ICRA 2025</p>
+    <div class="publication-links">
+      <a href="https://arxiv.org/abs/2412.00555" target="_blank">Paper</a> |
+      <a href="https://www.youtube.com/watch?v=nSCbNaaF_VM" target="_blank">Video</a>
+    </div>
+  </div>
+</div>
 
 
-<span style="color:#C41230; font-size: 1.1rem">Distributed Multi-Robot Sweep Coverage Control (T-SMC)</span>
 
-We introduced a coverage control algorithm for multi-robot sweep coverage in a region with unknown and uneven workload distribution. The paper is accepted by IEEE T-SMC. \[[Paper](https://ieeexplore.ieee.org/document/10168201)\]\[[Video](https://youtu.be/nBXupDJ9x94?si=JUgQYje5BrFEth6z)\]
+<div class="publication-item">
+  <div class="publication-image">
+    <img src="images/rss2.gif" alt="Tethered UAVs">
+  </div>
+  <div class="publication-content">
+    <h3 class="publication-title">Neptune: Nonentangling Trajectory Planning for Multiple Tethered Unmanned Vehicles</h3>
+    <p class="publication-authors"><strong>Cao, M.</strong>, Cao, K., Yuan, S., Nguyen, T.M. and Xie, L.</p>
+    <p class="publication-venue">IEEE Transactions on Robotics (T-RO), 2023</p>
+    <div class="publication-links">
+      <a href="https://ieeexplore.ieee.org/document/10106112" target="_blank">Paper</a> |
+      <a href="https://youtu.be/8b1RlDvQsi0?si=5a1XaOBbJUw2tFsK" target="_blank">Video</a> |
+      <a href="https://github.com/caomuqing/neptune" target="_blank">Code</a>
+    </div>
+  </div>
+</div>
 
-<hr style="border:3px light blue; text-align:center">
+<div class="publication-item">
+  <div class="publication-image">
+    <img src="images/aircrab.gif" alt="AirCrab">
+  </div>
+  <div class="publication-content">
+    <h3 class="publication-title">AirCrab: A Hybrid Aerial-Ground Manipulator with An Active Wheel</h3>
+    <p class="publication-authors"><strong>Cao, M.</strong>, Zhao, J., Xu, X. and Xie, L.</p>
+    <p class="publication-venue">IEEE/RSJ IROS 2024</p>
+    <div class="publication-links">
+      <a href="https://arxiv.org/abs/2403.15805" target="_blank">Paper</a> |
+      <a href="https://www.youtube.com/watch?v=Q1n-IiIt400" target="_blank">Video</a>
+    </div>
+  </div>
+</div>
 
-<span style="color:#C41230; font-size: 1.1rem">Differential Dynamic Programming-Based Polynomial Trajectory Generation (RA-L)</span>
+<div class="publication-item">
+  <div class="publication-image">
+    <img src="images/doublebee1.gif" alt="Hybrid Robot">
+  </div>
+  <div class="publication-content">
+    <h3 class="publication-title">DoubleBee: A Hybrid Aerial-Ground Robot with Two Active Wheels</h3>
+    <p class="publication-authors"><strong>Cao, M.</strong>, Xu, X., Yuan, S., Cao, K., Liu, K. and Xie, L.</p>
+    <p class="publication-venue">IROS 2023 Best Entertainment Paper Award</p>
+    <div class="publication-links">
+      <a href="https://arxiv.org/abs/2303.05075" target="_blank">Paper</a> |
+      <a href="https://youtu.be/hcw4GKmW_vs" target="_blank">Video</a>
+    </div>
+  </div>
+</div>
 
-We introduced a novel polynomial trajectory optimization algorithm leveraging differential dynamic programming. We have also released a solver-free implementation of the algorithm in the [package](https://github.com/ntu-caokun/DIRECT). The algorithm is verified using an UAV in indoor flight experiments. The paper is accepted by IEEE RA-L. \[[Paper](https://ieeexplore.ieee.org/document/9681227)\]\[[Video](https://youtu.be/BM8_ABM_2VM?si=NYmO9b82DaAmkFiN)\]\[[Code](https://github.com/ntu-caokun/DIRECT)\]
+<div class="publication-item">
+  <div class="publication-image">
+    <img src="images/rss1.gif" alt="Tethered Robots">
+  </div>
+  <div class="publication-content">
+    <h3 class="publication-title">Path Planning for Multiple Tethered Robots Using Topological Braids</h3>
+    <p class="publication-authors"><strong>Cao, M.</strong>, Cao, K., Yuan, S., Liu, K., Wong, Y.L. and Xie, L.</p>
+    <p class="publication-venue">Robotics: Science and Systems (RSS), 2023</p>
+    <div class="publication-links">
+      <a href="https://www.roboticsproceedings.org/rss19/p106.html" target="_blank">Paper</a> |
+      <a href="https://youtu.be/igP7eaOyZuc?si=JnqFPzdO9TdRhEz0" target="_blank">Video</a> |
+      <a href="https://www.youtube.com/watch?v=0-WXg0hH5Co&t=4976s" target="_blank">Presentation</a> |
+      <a href="https://github.com/caomuqing/tethered_robots_path_planning" target="_blank">Code</a>
+    </div>
+  </div>
+</div>
 
-<hr style="border:3px light blue; text-align:center">
+
+<div class="publication-item">
+  <div class="publication-content">
+    <h3 class="publication-title">Distributed Control of Multirobot Sweep Coverage Over a Region With Unknown Workload Distribution</h3>
+    <p class="publication-authors"><strong>Cao, M.</strong>, Cao, K., Li, X. and Xie, L.</p>
+    <p class="publication-venue">IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2023</p>
+    <div class="publication-links">
+      <a href="https://ieeexplore.ieee.org/document/10168201" target="_blank">Paper</a> |
+      <a href="https://youtu.be/nBXupDJ9x94?si=JUgQYje5BrFEth6z" target="_blank">Video</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-content">
+    <h3 class="publication-title">DIRECT: A Differential Dynamic Programming Based Framework for Trajectory Generation</h3>
+    <p class="publication-authors"><strong>Cao, K.</strong>, <strong>Cao, M.</strong>, Yuan, S. and Xie, L.</p>
+    <p class="publication-venue">IEEE Robotics and Automation Letters (RA-L), 2021</p>
+    <div class="publication-links">
+      <a href="https://ieeexplore.ieee.org/document/9681227" target="_blank">Paper</a> |
+      <a href="https://youtu.be/BM8_ABM_2VM?si=NYmO9b82DaAmkFiN" target="_blank">Video</a> |
+      <a href="https://github.com/ntu-caokun/DIRECT" target="_blank">Code</a>
+    </div>
+  </div>
+</div>
 
 <div style="width: 300px; height: 200px; overflow: hidden;">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RLTHMJODgsVMxCoP0v1Ov2xfZV6-EyjiNuJjykzEnR8&cl=ffffff&w=a"></script>
 </div>
+
+<style>
+/* Publication Items Styling */
+.publication-item {
+  display: flex;
+  gap: 1.2rem;
+  background: white;
+  border: 1px solid #e1e8ed;
+  border-radius: 6px;
+  padding: 1rem;
+  margin-bottom: 0.8rem;
+  transition: all 0.2s ease;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+
+.publication-item:hover {
+  border-color: #3498db;
+  box-shadow: 0 3px 8px rgba(52, 152, 219, 0.08);
+}
+
+.publication-image {
+  flex-shrink: 0;
+}
+
+.publication-image img {
+  width: 120px;
+  height: 120px;
+  border-radius: 4px;
+  object-fit: cover;
+  border: 1px solid #ecf0f1;
+}
+
+.publication-content {
+  flex: 1;
+  min-width: 0; /* Prevents flex item from overflowing */
+}
+
+.publication-title {
+  color: #2c3e50;
+  font-size: 1.0rem;
+  font-weight: 600;
+  margin: 0 0 0.3rem 0;
+  line-height: 1.2;
+  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  letter-spacing: 0.01em;
+}
+
+.publication-authors {
+  color: #34495e;
+  margin-bottom: 0.25rem;
+  line-height: 1.2;
+  font-weight: 500;
+  font-size: 0.7rem !important;
+  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+}
+
+.publication-venue {
+  color: #3498db;
+  font-weight: 600;
+  margin-bottom: 0.6rem;
+  font-size: 0.7rem !important;
+  font-style: italic;
+  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+}
+
+.publication-links {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.publication-links a {
+  color: #3498db;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.65rem;
+  transition: color 0.2s ease;
+  padding: 0.15rem 0.3rem;
+  border-radius: 3px;
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+}
+
+.publication-links a:hover {
+  color: #2980b9;
+  background: #e3f2fd;
+  border-color: #3498db;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .publication-item {
+    flex-direction: column;
+    text-align: center;
+    gap: 0.8rem;
+    padding: 0.8rem;
+  }
+  
+  .publication-image {
+    align-self: center;
+  }
+  
+  .publication-links {
+    justify-content: center;
+  }
+  
+  .publication-title {
+    font-size: 0.95rem;
+  }
+  
+  .publication-authors {
+    font-size: 0.65rem !important;
+  }
+  
+  .publication-venue {
+    font-size: 0.7rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .publication-item {
+    padding: 0.7rem;
+    margin-bottom: 0.6rem;
+  }
+  
+  .publication-image img {
+    width: 110px;
+    height: 110px;
+  }
+  
+  .publication-title {
+    font-size: 0.9rem;
+  }
+  
+  .publication-authors {
+    font-size: 0.6rem !important;
+  }
+  
+  .publication-venue {
+    font-size: 0.65rem !important;
+  }
+  
+  .publication-links a {
+    font-size: 0.6rem;
+    padding: 0.1rem 0.25rem;
+  }
+}
+</style>

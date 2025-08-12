@@ -4,7 +4,8 @@ collection: projects
 permalink: /projects/2023-delta
 excerpt: 'In collaboration with Delta Electronics Inc. I led a team of 2 research fellows and 2 research assistants to develop solutions for autonomous robot planning in multi-level buildings and dense human crowds.'
 # authors: '**Cao, M.**\*, Xu, X.\*, Yuan, S., Cao, K., Liu, K. and Xie, L.'
-date: 2023-11-01
+date: 2024-01-01
+venue: 'Delta Electronics Inc.'
 # venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems'
 # paperurl: 'https://arxiv.org/abs/2303.05075'
 teaser: 'images/delta1.gif'
@@ -15,7 +16,7 @@ breakagainagain: 'yes'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-In collaboration with Delta Electronics Inc. I led a team of 2 research fellows and 2 research assistants to develop solutions for autonomous robot planning in multi-level buildings and dense human crowds.
+In collaboration with Delta Electronics Inc. I led a team of 2 research fellows and 2 research assistants to develop solutions for autonomous robot planning in multi-level buildings and dense human crowds. The autonomous algorithm has been successfully tested in HDB buildings near Commonwealth, Singapore.
 
 Robot platform:
 

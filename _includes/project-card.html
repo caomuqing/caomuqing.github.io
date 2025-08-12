@@ -1,0 +1,84 @@
+{% include base_path %}
+
+<div class="project-card">
+  <div class="project-image-container">
+    {% if post.teaser %}
+      <img src="{{ site.baseurl }}/{{ post.teaser }}" alt="{{ post.title }}" class="project-image">
+    {% else %}
+      <div class="project-image-placeholder">
+        <i class="fa fa-rocket"></i>
+      </div>
+    {% endif %}
+    <div class="project-overlay">
+      <div class="project-overlay-content">
+        <span class="project-year">{{ post.date | date: "%Y" }}</span>
+      </div>
+    </div>
+  </div>
+  
+  <div class="project-content">
+    <h3 class="project-title">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+    </h3>
+    
+    <div class="project-meta">
+      {% if post.date %}
+        <span class="project-date">
+          <i class="fa fa-calendar"></i>
+          {{ post.date | date: "%B %Y" }}
+        </span>
+      {% endif %}
+      
+      {% if post.venue %}
+        <span class="project-venue">
+          <i class="fa fa-university"></i>
+          Funded by {{ post.venue }}
+        </span>
+      {% endif %}
+    </div>
+    
+    <div class="project-links">
+      <a href="{{ base_path }}{{ post.url }}" class="project-link details">
+        <i class="fa fa-info-circle"></i>
+        Project Details
+      </a>
+      
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" class="project-link paper" target="_blank">
+          <i class="fa fa-file-text-o"></i>
+          Paper
+        </a>
+      {% endif %}
+      
+      {% if post.excerpt contains 'Video' or post.content contains 'Video' %}
+        <a href="#" class="project-link video" onclick="extractVideoLink('{{ post.excerpt | append: post.content | escape }}')">
+          <i class="fa fa-video-camera"></i>
+          Video
+        </a>
+      {% endif %}
+      
+      {% if post.excerpt contains 'Code' or post.content contains 'Code' %}
+        <a href="#" class="project-link code" onclick="extractCodeLink('{{ post.excerpt | append: post.content | escape }}')">
+          <i class="fa fa-code"></i>
+          Code
+        </a>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+<script>
+function extractVideoLink(content) {
+  const videoMatch = content.match(/\[Video\]\(([^)]+)\)/);
+  if (videoMatch) {
+    window.open(videoMatch[1], '_blank');
+  }
+}
+
+function extractCodeLink(content) {
+  const codeMatch = content.match(/\[Code\]\(([^)]+)\)/);
+  if (codeMatch) {
+    window.open(codeMatch[1], '_blank');
+  }
+}
+</script> 

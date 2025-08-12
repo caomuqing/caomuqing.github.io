@@ -1,0 +1,238 @@
+# Central configuration for paper links
+# Update this file to change paper URLs across your site
+
+papers:
+  "Feasible computationally efficient path planning for UAV collision avoidance":
+    url: "https://arxiv.org/abs/2002.10623"
+    videos: []
+    code: []
+    presentations: []
+
+  "An integrated localization-navigation scheme for distance-based docking of UAVs":
+    url: "https://doi.org/10.1109/IROS.2018.8594251"
+    videos: []
+    code: []
+    presentations: []
+
+  "Post-mission autonomous return and precision landing of UAV":
+    url: "https://doi.org/10.1109/ICARCV.2018.8581117"
+    videos: []
+    code: []
+    presentations: []
+
+  "Persistently excited adaptive relative localization and time-varying formation of robot swarms":
+    url: "https://doi.org/10.1109/TRO.2019.2954677"
+    videos: []
+    code: []
+    presentations: []
+
+  "Integrated UWB-Vision Approach for Autonomous Docking of UAVs in GPS-denied Environments":
+    url: "https://doi.org/10.1109/ICRA.2019.8793851"
+    videos: []
+    code: []
+    presentations: []
+
+  "Distance-based cooperative relative localization for leader-following control of MAVs":
+    url: "https://doi.org/10.1109/LRA.2019.2926671"
+    videos: []
+    code: []
+    presentations: []
+
+  "Single landmark distance-based navigation":
+    url: "https://doi.org/10.1109/TCST.2019.2916089"
+    videos: []
+    code: []
+    presentations: []
+
+  "Online trajectory correction and tracking for facade inspection using autonomous UAV":
+    url: "https://doi.org/10.1109/ICCA51439.2020.9264577"
+    videos: []
+    code: []
+    presentations: []
+
+  "Loosely-coupled ultra-wideband-aided scale correction for monocular visual odometry":
+    url: "https://doi.org/10.1142/S2301385020500120"
+    videos: []
+    code: []
+    presentations: []
+
+  "Distributed multi-robot sweep coverage for a region with unknown workload distribution":
+    url: "https://link.springer.com/article/10.1007/s43684-021-00011-1"
+    videos:
+      - "https://youtu.be/nBXupDJ9x94?si=JUgQYje5BrFEth6z"
+    code: []
+    presentations: []
+
+  "LIRO: Tightly coupled lidar-inertia-ranging odometry":
+    url: "https://doi.org/10.1109/ICRA48506.2021.9560954"
+    videos: []
+    code: []
+    presentations: []
+
+  "DIRECT: A Differential Dynamic Programming Based Framework for Trajectory Generation":
+    url: "https://doi.org/10.1109/LRA.2022.3142744"
+    videos:
+      - "https://youtu.be/BM8_ABM_2VM?si=NYgQYje5BrFEth6z"
+    code:
+      - "https://github.com/ntu-caokun/DIRECT"
+    presentations: []
+
+  "MILIOM: Tightly coupled multi-input lidar-inertia odometry and mapping":
+    url: "https://ieeexplore.ieee.org/document/9431754"
+    videos: []
+    code: []
+    presentations: []
+
+  "Viral-fusion: A visual-inertial-ranging-lidar sensor fusion approach":
+    url: "https://doi.org/10.1109/TRO.2021.3094157"
+    videos: []
+    code: []
+    presentations: []
+
+  "NTU VIRAL: A visual-inertial-ranging-lidar dataset, from an aerial vehicle viewpoint":
+    url: "https://doi.org/10.1177/02783649211052312"
+    videos: []
+    code: []
+    presentations: []
+
+  "System identification and control of the ground operation mode of a hybrid aerial--ground robot":
+    url: "https://link.springer.com/article/10.1007/s11768-023-00162-x"
+    videos: []
+    code: []
+    presentations: []
+
+  "Neptune: Nonentangling trajectory planning for multiple tethered unmanned vehicles":
+    url: "https://doi.org/10.1109/TRO.2023.3264950"
+    videos:
+      - "https://youtu.be/8b1RlDvQsi0?si=5a1XaOBbJUw2tFsK"
+    code:
+      - "https://github.com/caomuqing/neptune"
+    presentations: []
+
+  "Path Planning for Multiple Tethered Robots Using Topological Braids":
+    url: "https://www.roboticsproceedings.org/rss19/p106.html"
+    videos:
+      - "https://youtu.be/igP7eaOyZuc?si=JnqFPzdO9TdRhEz0"
+    code:
+      - "https://github.com/caomuqing/tethered_robots_path_planning"
+    presentations:
+      - "https://www.youtube.com/watch?v=0-WXg0hH5Co&t=4976s"
+
+  "Similar Formation Control via Range and Odometry Measurements":
+    url: "https://ieeexplore.ieee.org/document/10099461"
+    videos: []
+    code: []
+    presentations: []
+
+  "Distributed Control of Multirobot Sweep Coverage Over a Region With Unknown Workload Distribution":
+    url: "https://ieeexplore.ieee.org/document/10168201"
+    videos:
+      - "https://youtu.be/nBXupDJ9x94?si=JUgQYje5BrFEth6z"
+    code: []
+    presentations: []
+
+  "Vision-Based Plane Estimation and Following for Building Inspection With Autonomous UAV":
+    url: "https://ieeexplore.ieee.org/document/10168202"
+    videos: []
+    code: []
+    presentations: []
+
+  "SPINS: A structure priors aided inertial navigation system":
+    url: "https://doi.org/10.1002/rob.22158"
+    videos: []
+    code: []
+    presentations: []
+
+  "DoubleBee: A Hybrid Aerial-Ground Robot with Two Active Wheels":
+    url: "https://arxiv.org/abs/2303.05075"
+    videos:
+      - "https://youtu.be/hcw4GKmW_vs"
+    code: []
+    presentations: []
+
+  "AV-PedAware: Self-Supervised Audio-Visual Fusion for Dynamic Pedestrian Awareness":
+    url: "https://ieeexplore.ieee.org/document/10342257"
+    videos: []
+    code: []
+    presentations: []
+
+  "DLC-SLAM: A Robust LiDAR-SLAM System With Learning-Based Denoising and Loop Closure":
+    url: "https://ieeexplore.ieee.org/document/10092189"
+    videos: []
+    code: []
+    presentations: []
+
+  "A Cost-Effective Cooperative Exploration and Inspection Strategy for Heterogeneous Aerial System":
+    url: "https://ieeexplore.ieee.org/document/10591842"
+    videos: []
+    code: []
+    presentations: []
+
+  "HCTO: Optimality-aware LiDAR inertial odometry with hybrid continuous time optimization for compact wearable mapping system":
+    url: "https://www.sciencedirect.com/science/article/pii/S092427162400162X"
+    videos: []
+    code: []
+    presentations: []
+
+  "CapsuleBot: A Novel Hybrid Aerial-Ground Bi-Copter Robot With Two Actuated-Wheel-Rotors":
+    url: "https://arxiv.org/abs/2309.09224"
+    videos: []
+    code: []
+    presentations: []
+
+  "AV-FDTI: Audio-visual fusion for drone threat identification":
+    url: "https://www.sciencedirect.com/science/article/pii/S2949855424000286"
+    videos: []
+    code: []
+    presentations: []
+
+  "AirCrab: A Hybrid Aerial-Ground Manipulator with An Active Wheel":
+    url: "https://arxiv.org/abs/2403.15805"
+    videos:
+      - "https://www.youtube.com/watch?v=Q1n-IiIt400"
+    code: []
+    presentations: []
+
+  "A data-driven control method for ground locomotion on sloped terrain of a hybrid aerial-ground robot":
+    url: "https://www.sciencedirect.com/science/article/pii/S2949855424000285"
+    videos: []
+    code: []
+    presentations: []
+
+  "Learning Dynamic Weight Adjustment for Spatial-Temporal Trajectory Planning in Crowd Navigation":
+    url: "https://arxiv.org/abs/2412.00555"
+    videos:
+      - "https://www.youtube.com/watch?v=nSCbNaaF_VM"
+    code: []
+    presentations: []
+
+  "AToM: Adaptive Theory-of-Mind-Based Human Motion Prediction in Long-Term Human-Robot Interactions":
+    url: "https://arxiv.org/abs/2502.05792"
+    videos: []
+    code: []
+    presentations: []
+
+  "PIPE Planner: Pathwise Information Gain with Map Predictions for Indoor Robot Exploration":
+    url: "https://arxiv.org/abs/2503.07504"
+    videos: []
+    code: []
+    presentations: []
+
+  "Following Is All You Need: Robot Crowd Navigation Using People As Planners":
+    url: "https://arxiv.org/abs/2504.10828"
+    videos: []
+    code: []
+    presentations: []
+
+  "Cooperative Aerial Robot Inspection Challenge: A Benchmark for Heterogeneous Multi-Uncrewed-Aerial-Vehicle Planning and Lessons Learned":
+    url: "https://arxiv.org/abs/2501.06566"
+    videos:
+      - "https://www.youtube.com/watch?v=8u5hj2oZ-VY"
+    code: []
+    presentations: []
+
+  "Relative localizability and localization for multi-robot systems":
+    url: "https://doi.org/10.1109/TRO.2025.3544103"
+    videos: []
+    code: []
+    presentations: []

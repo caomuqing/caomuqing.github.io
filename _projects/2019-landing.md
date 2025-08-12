@@ -4,7 +4,7 @@ collection: projects
 permalink: /projects/2023-landing
 excerpt: 'We developed a method combining Ultra-wideband (UWB) ranging sensor with vision-based techniques to achieve both autonomous approaching and landing capabilities in GPS-denied environments.'
 date: 2019-04-01
-# venue: 'IEEE Transactions on Robotics'
+venue: 'NTU Singapore'
 # paperurl: 'https://ieeexplore.ieee.org/abstract/document/10106112'
 teaser: 'images/landing.gif'
 # authors: '**Cao, M.**, Cao, K., Yuan, S., Nguyen, T.M. and Xie, L.'

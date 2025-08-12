@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publication Image Templates</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .template {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .image-preview {
+            width: 500px;
+            height: 300px;
+            border: 2px dashed #ccc;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 20px 0;
+            border-radius: 10px;
+            color: #666;
+            font-size: 14px;
+        }
+        .uav-theme { background: linear-gradient(135deg, #1e3c72, #2a5298); }
+        .planning-theme { background: linear-gradient(135deg, #134e5e, #71b280); }
+        .slam-theme { background: linear-gradient(135deg, #4a148c, #7b1fa2); }
+        .multi-robot-theme { background: linear-gradient(135deg, #e65100, #ff9800); }
+        .hybrid-theme { background: linear-gradient(135deg, #c62828, #ef5350); }
+        .sensor-theme { background: linear-gradient(135deg, #1565c0, #42a5f5); }
+        .challenge-theme { background: linear-gradient(135deg, #2e7d32, #66bb6a); }
+        
+        .color-palette {
+            display: flex;
+            gap: 10px;
+            margin: 10px 0;
+        }
+        .color-swatch {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            border: 2px solid white;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        }
+        .instructions {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 15px 0;
+        }
+        .publication-list {
+            background: #e3f2fd;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 15px 0;
+        }
+        .publication-list ul {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Publication Image Templates</h1>
+    <p>Use these templates to create consistent images for your publications. You can use online tools like Canva, Figma, or GIMP with these specifications.</p>
+
+    <!-- UAV Localization Theme -->
+    <div class="template">
+        <h2>🚁 UAV Localization & Navigation Theme</h2>
+        <div class="image-preview uav-theme">
+            <div style="text-align: center; color: white;">
+                <h3>UAV Docking & Navigation</h3>
+                <p>Blue gradient background<br>UAV silhouettes<br>Localization concepts</p>
+            </div>
+        </div>
+        <div class="color-palette">
+            <div class="color-swatch" style="background: #1e3c72;"></div>
+            <div class="color-swatch" style="background: #2a5298;"></div>
+            <div class="color-swatch" style="background: #ffffff;"></div>
+            <div class="color-swatch" style="background: #87ceeb;"></div>
+        </div>
+        <div class="instructions">
+            <strong>Instructions:</strong>
+            <ul>
+                <li>Use blue gradient background (#1e3c72 to #2a5298)</li>
+                <li>Add UAV/drone silhouettes</li>
+                <li>Include localization/navigation icons</li>
+                <li>White text for contrast</li>
+            </ul>
+        </div>
+        <div class="publication-list">
+            <strong>Publications using this theme:</strong>
+            <ul>
+                <li>Integrated Localization-Navigation for UAV Docking</li>
+                <li>Distance-based Cooperative Localization for MAVs</li>
+                <li>UWB-Vision Approach for UAV Docking</li>
+                <li>Single Landmark Distance-based Navigation</li>
+                <li>Post-mission Autonomous Return and Landing</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Path Planning Theme -->
+    <div class="template">
+        <h2>🛤️ Path Planning & Trajectory Theme</h2>
+        <div class="image-preview planning-theme">
+            <div style="text-align: center; color: white;">
+                <h3>Trajectory Planning</h3>
+                <p>Green-blue gradient<br>Path trajectories<br>Obstacle avoidance</p>
+            </div>
+        </div>
+        <div class="color-palette">
+            <div class="color-swatch" style="background: #134e5e;"></div>
+            <div class="color-swatch" style="background: #71b280;"></div>
+            <div class="color-swatch" style="background: #ffffff;"></div>
+            <div class="color-swatch" style="background: #90ee90;"></div>
+        </div>
+        <div class="instructions">
+            <strong>Instructions:</strong>
+            <ul>
+                <li>Use green-blue gradient background (#134e5e to #71b280)</li>
+                <li>Show trajectory paths and curves</li>
+                <li>Include obstacle representations</li>
+                <li>Add planning/optimization icons</li>
+            </ul>
+        </div>
+        <div class="publication-list">
+            <strong>Publications using this theme:</strong>
+            <ul>
+                <li>Feasible Path Planning for UAV Collision Avoidance</li>
+                <li>Online Trajectory Correction for Facade Inspection</li>
+                <li>DIRECT: DDP-based Trajectory Generation</li>
+                <li>Learning Dynamic Weight Adjustment for Crowd Navigation</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- SLAM Theme -->
+    <div class="template">
+        <h2>🗺️ SLAM & Odometry Theme</h2>
+        <div class="image-preview slam-theme">
+            <div style="text-align: center; color: white;">
+                <h3>SLAM & Mapping</h3>
+                <p>Purple gradient<br>Mapping concepts<br>Sensor fusion</p>
+            </div>
+        </div>
+        <div class="color-palette">
+            <div class="color-swatch" style="background: #4a148c;"></div>
+            <div class="color-swatch" style="background: #7b1fa2;"></div>
+            <div class="color-swatch" style="background: #ffffff;"></div>
+            <div class="color-swatch" style="background: #e1bee7;"></div>
+        </div>
+        <div class="instructions">
+            <strong>Instructions:</strong>
+            <ul>
+                <li>Use purple gradient background (#4a148c to #7b1fa2)</li>
+                <li>Show mapping and localization concepts</li>
+                <li>Include sensor fusion elements</li>
+                <li>Add LiDAR/vision/IMU icons</li>
+            </ul>
+        </div>
+        <div class="publication-list">
+            <strong>Publications using this theme:</strong>
+            <ul>
+                <li>LIRO: Tightly Coupled LiDAR-Inertia-Ranging Odometry</li>
+                <li>MILIOM: Multi-Input LiDAR-Inertia Odometry</li>
+                <li>SPINS: Structure Priors Aided INS</li>
+                <li>DLC-SLAM: Learning-based LiDAR-SLAM</li>
+                <li>HCTO: Optimality-aware LiDAR Inertial Odometry</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Multi-Robot Theme -->
+    <div class="template">
+        <h2>🤖 Multi-Robot Systems Theme</h2>
+        <div class="image-preview multi-robot-theme">
+            <div style="text-align: center; color: white;">
+                <h3>Multi-Robot Coordination</h3>
+                <p>Orange gradient<br>Robot coordination<br>Formation patterns</p>
+            </div>
+        </div>
+        <div class="color-palette">
+            <div class="color-swatch" style="background: #e65100;"></div>
+            <div class="color-swatch" style="background: #ff9800;"></div>
+            <div class="color-swatch" style="background: #ffffff;"></div>
+            <div class="color-swatch" style="background: #ffcc80;"></div>
+        </div>
+        <div class="instructions">
+            <strong>Instructions:</strong>
+            <ul>
+                <li>Use orange gradient background (#e65100 to #ff9800)</li>
+                <li>Show multiple robot coordination</li>
+                <li>Include formation and coverage patterns</li>
+                <li>Add coordination/communication icons</li>
+            </ul>
+        </div>
+        <div class="publication-list">
+            <strong>Publications using this theme:</strong>
+            <ul>
+                <li>Distributed Multi-Robot Sweep Coverage</li>
+                <li>Similar Formation Control via Range Measurements</li>
+                <li>Relative Localizability for Multi-Robot Systems</li>
+                <li>Vision-Based Plane Estimation and Following</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Hybrid Robot Theme -->
+    <div class="template">
+        <h2>🔄 Hybrid Aerial-Ground Robot Theme</h2>
+        <div class="image-preview hybrid-theme">
+            <div style="text-align: center; color: white;">
+                <h3>Hybrid Robot Systems</h3>
+                <p>Red gradient<br>Aerial-ground transition<br>Manipulation concepts</p>
+            </div>
+        </div>
+        <div class="color-palette">
+            <div class="color-swatch" style="background: #c62828;"></div>
+            <div class="color-swatch" style="background: #ef5350;"></div>
+            <div class="color-swatch" style="background: #ffffff;"></div>
+            <div class="color-swatch" style="background: #ffcdd2;"></div>
+        </div>
+        <div class="instructions">
+            <strong>Instructions:</strong>
+            <ul>
+                <li>Use red gradient background (#c62828 to #ef5350)</li>
+                <li>Show aerial-ground transition</li>
+                <li>Include manipulation and locomotion concepts</li>
+                <li>Add hybrid mobility icons</li>
+            </ul>
+        </div>
+        <div class="publication-list">
+            <strong>Publications using this theme:</strong>
+            <ul>
+                <li>DoubleBee: Hybrid Aerial-Ground Robot</li>
+                <li>AirCrab: Hybrid Aerial-Ground Manipulator</li>
+                <li>CapsuleBot: Novel Hybrid Bi-Copter Robot</li>
+                <li>System Identification for Hybrid Robots</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Sensor Fusion Theme -->
+    <div class="template">
+        <h2>🔍 Sensor Fusion & Perception Theme</h2>
+        <div class="image-preview sensor-theme">
+            <div style="text-align: center; color: white;">
+                <h3>Multi-Modal Sensing</h3>
+                <p>Blue gradient<br>Sensor fusion<br>Perception concepts</p>
+            </div>
+        </div>
+        <div class="color-palette">
+            <div class="color-swatch" style="background: #1565c0;"></div>
+            <div class="color-swatch" style="background: #42a5f5;"></div>
+            <div class="color-swatch" style="background: #ffffff;"></div>
+            <div class="color-swatch" style="background: #bbdefb;"></div>
+        </div>
+        <div class="instructions">
+            <strong>Instructions:</strong>
+            <ul>
+                <li>Use blue gradient background (#1565c0 to #42a5f5)</li>
+                <li>Show multi-modal sensor concepts</li>
+                <li>Include audio-visual fusion elements</li>
+                <li>Add perception and detection icons</li>
+            </ul>
+        </div>
+        <div class="publication-list">
+            <strong>Publications using this theme:</strong>
+            <ul>
+                <li>Viral-Fusion: Visual-Inertial-Ranging-LiDAR Fusion</li>
+                <li>AV-PedAware: Audio-Visual Pedestrian Awareness</li>
+                <li>AV-FDTI: Audio-Visual Drone Threat Identification</li>
+                <li>Data-driven Control for Sloped Terrain</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Challenge Theme -->
+    <div class="template">
+        <h2>🏆 Challenges & Datasets Theme</h2>
+        <div class="image-preview challenge-theme">
+            <div style="text-align: center; color: white;">
+                <h3>Research Challenges</h3>
+                <p>Green gradient<br>Challenge concepts<br>Dataset elements</p>
+            </div>
+        </div>
+        <div class="color-palette">
+            <div class="color-swatch" style="background: #2e7d32;"></div>
+            <div class="color-swatch" style="background: #66bb6a;"></div>
+            <div class="color-swatch" style="background: #ffffff;"></div>
+            <div class="color-swatch" style="background: #c8e6c9;"></div>
+        </div>
+        <div class="instructions">
+            <strong>Instructions:</strong>
+            <ul>
+                <li>Use green gradient background (#2e7d32 to #66bb6a)</li>
+                <li>Show challenge and competition concepts</li>
+                <li>Include dataset and benchmark elements</li>
+                <li>Add achievement and evaluation icons</li>
+            </ul>
+        </div>
+        <div class="publication-list">
+            <strong>Publications using this theme:</strong>
+            <ul>
+                <li>Cooperative Aerial Robot Inspection Challenge</li>
+                <li>NTU VIRAL: Multi-Modal Dataset</li>
+                <li>Cooperative Exploration and Inspection Strategy</li>
+                <li>Crowd Navigation Approaches</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="template">
+        <h2>📋 Quick Image Creation Guide</h2>
+        <div class="instructions">
+            <h3>Option 1: Online Tools (Recommended)</h3>
+            <ul>
+                <li><strong>Canva.com</strong> - Free templates, easy to use</li>
+                <li><strong>Figma.com</strong> - Professional design tool</li>
+                <li><strong>GIMP</strong> - Free desktop image editor</li>
+            </ul>
+            
+            <h3>Option 2: Use the Python Script</h3>
+            <ul>
+                <li>Install Pillow: <code>pip install Pillow</code></li>
+                <li>Run: <code>python generate_publication_images.py</code></li>
+                <li>Customize generated images as needed</li>
+            </ul>
+            
+            <h3>Option 3: Manual Creation</h3>
+            <ul>
+                <li>Use the color palettes above</li>
+                <li>Follow the theme guidelines</li>
+                <li>Create 500x300 pixel images</li>
+                <li>Save as PNG format</li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        // Add some interactivity
+        document.querySelectorAll('.image-preview').forEach(preview => {
+            preview.addEventListener('click', function() {
+                this.style.transform = 'scale(1.05)';
+                setTimeout(() => {
+                    this.style.transform = 'scale(1)';
+                }, 200);
+            });
+        });
+    </script>
+</body>
+</html> 
