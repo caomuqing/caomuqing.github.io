@@ -81,7 +81,7 @@ News
   </div>
   <div class="publication-content">
     <h3 class="publication-title">Braid-based entanglement-free trajectory planning for multiple tethered robots</h3>
-    <p class="publication-authors"><strong>Cao, M.</strong>, Cao, K., Xu, X., Yuan, S., Wong, Y.L. and Xie, L.</p>
+    <p class="publication-authors"><strong>Muqing Cao</strong>, Kun Cao, Xinhang Xu, Shenghai Yuan, Yan Loi Wong and Lihua Xie</p>
     <p class="publication-venue">The International Journal of Robotics Research (IJRR), 2025</p>
     <div class="publication-links">
       <a href="https://journals.sagepub.com/doi/10.1177/02783649251400382" target="_blank">Paper</a>
@@ -95,7 +95,7 @@ News
   </div>
   <div class="publication-content">
     <h3 class="publication-title">Cooperative Aerial Robot Inspection Challenge: A Benchmark for Heterogeneous Multi-Uncrewed-Aerial-Vehicle Planning and Lessons Learned</h3>
-    <p class="publication-authors"><strong>Cao, M.</strong>, Nguyen, T.M., Yuan, S., Anastasiou, A., Zacharia, A., Papaioannou, S., Kolios, P., Panayiotou, C.G., Polycarpou, M.M., Xu, X., Zhang, M., Gao, F., Zhou, B., Chen, B.M. and Xie, L.</p>
+    <p class="publication-authors"><strong>Muqing Cao</strong>, T.M. Nguyen, Shenghai Yuan, A. Anastasiou, A. Zacharia, S. Papaioannou, P. Kolios, C.G. Panayiotou, M.M. Polycarpou, Xinhang Xu, M. Zhang, F. Gao, B. Zhou, B.M. Chen and Lihua Xie</p>
     <p class="publication-venue">IEEE Robotics & Automation Magazine (RA-M) 2025</p>
     <div class="publication-links">
       <a href="https://arxiv.org/abs/2501.06566" target="_blank">Paper</a> |
@@ -111,7 +111,7 @@ News
   </div>
   <div class="publication-content">
     <h3 class="publication-title">Learning Dynamic Weight Adjustment for Spatial-Temporal Trajectory Planning in Crowd Navigation</h3>
-    <p class="publication-authors"><strong>Cao, M.</strong>, Xu, X., Yang, Y., Li, J., Jin, T., Wang, P., Hung, T.Y., Lin, G. and Xie, L.</p>
+    <p class="publication-authors"><strong>Muqing Cao</strong>, Xinhang Xu, Y. Yang, J. Li, T. Jin, P. Wang, T.Y. Hung, G. Lin and Lihua Xie</p>
     <p class="publication-venue">IEEE ICRA 2025</p>
     <div class="publication-links">
       <a href="https://arxiv.org/abs/2412.00555" target="_blank">Paper</a> |
@@ -127,7 +127,7 @@ News
   </div>
   <div class="publication-content">
     <h3 class="publication-title">Neptune: Nonentangling Trajectory Planning for Multiple Tethered Unmanned Vehicles</h3>
-    <p class="publication-authors"><strong>Cao, M.</strong>, Cao, K., Yuan, S., Nguyen, T.M. and Xie, L.</p>
+    <p class="publication-authors"><strong>Muqing Cao</strong>, Kun Cao, Shenghai Yuan, T.M. Nguyen and Lihua Xie</p>
     <p class="publication-venue">IEEE Transactions on Robotics (T-RO), 2023</p>
     <div class="publication-links">
       <a href="https://ieeexplore.ieee.org/document/10106112" target="_blank">Paper</a> |
@@ -143,7 +143,7 @@ News
   </div>
   <div class="publication-content">
     <h3 class="publication-title">AirCrab: A Hybrid Aerial-Ground Manipulator with An Active Wheel</h3>
-    <p class="publication-authors"><strong>Cao, M.</strong>, Zhao, J., Xu, X. and Xie, L.</p>
+    <p class="publication-authors"><strong>Muqing Cao</strong>, J. Zhao, Xinhang Xu and Lihua Xie</p>
     <p class="publication-venue">IEEE/RSJ IROS 2024</p>
     <div class="publication-links">
       <a href="https://arxiv.org/abs/2403.15805" target="_blank">Paper</a> |
@@ -158,7 +158,7 @@ News
   </div>
   <div class="publication-content">
     <h3 class="publication-title">DoubleBee: A Hybrid Aerial-Ground Robot with Two Active Wheels</h3>
-    <p class="publication-authors"><strong>Cao, M.</strong>, Xu, X., Yuan, S., Cao, K., Liu, K. and Xie, L.</p>
+    <p class="publication-authors"><strong>Muqing Cao</strong>, Xinhang Xu, Shenghai Yuan, Kun Cao, K. Liu and Lihua Xie</p>
     <p class="publication-venue">IROS 2023 Best Entertainment Paper Award</p>
     <div class="publication-links">
       <a href="https://arxiv.org/abs/2303.05075" target="_blank">Paper</a> |
@@ -173,7 +173,7 @@ News
   </div>
   <div class="publication-content">
     <h3 class="publication-title">Path Planning for Multiple Tethered Robots Using Topological Braids</h3>
-    <p class="publication-authors"><strong>Cao, M.</strong>, Cao, K., Yuan, S., Liu, K., Wong, Y.L. and Xie, L.</p>
+    <p class="publication-authors"><strong>Muqing Cao</strong>, Kun Cao, Shenghai Yuan, K. Liu, Yan Loi Wong and Lihua Xie</p>
     <p class="publication-venue">Robotics: Science and Systems (RSS), 2023</p>
     <div class="publication-links">
       <a href="https://www.roboticsproceedings.org/rss19/p106.html" target="_blank">Paper</a> |
@@ -188,7 +188,7 @@ News
 <div class="publication-item">
   <div class="publication-content">
     <h3 class="publication-title">Distributed Control of Multirobot Sweep Coverage Over a Region With Unknown Workload Distribution</h3>
-    <p class="publication-authors"><strong>Cao, M.</strong>, Cao, K., Li, X. and Xie, L.</p>
+    <p class="publication-authors"><strong>Muqing Cao</strong>, Kun Cao, X. Li and Lihua Xie</p>
     <p class="publication-venue">IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2023</p>
     <div class="publication-links">
       <a href="https://ieeexplore.ieee.org/document/10168201" target="_blank">Paper</a> |
@@ -200,7 +200,7 @@ News
 <div class="publication-item">
   <div class="publication-content">
     <h3 class="publication-title">DIRECT: A Differential Dynamic Programming Based Framework for Trajectory Generation</h3>
-    <p class="publication-authors"><strong>Cao, K.</strong>, <strong>Cao, M.</strong>, Yuan, S. and Xie, L.</p>
+    <p class="publication-authors"><strong>Kun Cao</strong>, <strong>Muqing Cao</strong>, Shenghai Yuan and Lihua Xie</p>
     <p class="publication-venue">IEEE Robotics and Automation Letters (RA-L), 2021</p>
     <div class="publication-links">
       <a href="https://ieeexplore.ieee.org/document/9681227" target="_blank">Paper</a> |
@@ -261,7 +261,7 @@ News
 }
 
 .publication-authors {
-  color: #34495e;
+  color: #b0b0b0;
   margin-bottom: 0.25rem;
   line-height: 1.2;
   font-weight: 500;
