@@ -17,6 +17,14 @@ News
 <div style="max-height: 200px; overflow-y: auto; padding: 10px;">
     <ul style="list-style-type: none; padding-left: 0; font-size: 0.9rem; line-height: 1.4; margin: 0;">
         <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
+            <div style="flex: 0 0 80px; font-weight: bold;">2025/12</div>
+            <div style="flex: 1;">Our paper on multi-robot entanglement-free trajectory planning has been accepted by <strong>IJRR</strong> <a href="https://journals.sagepub.com/doi/10.1177/02783649251400382">(paper link)</a>!</div>
+        </li>
+        <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
+            <div style="flex: 0 0 80px; font-weight: bold;">2025/10</div>
+            <div style="flex: 1;">I gave a guest lecture at Texas A&M University CSCE 689-600: Special Topics in Multi-Robot Systems  <a href="https://cse-robotics.engr.tamu.edu/dshell/cs689/index.html">(course link)</a>!</div>
+        </li>
+        <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
             <div style="flex: 0 0 80px; font-weight: bold;">2025/07</div>
             <div style="flex: 1;">We are organizing the IROS 2025 <a href="https://www.panlogin.com/">2nd Workshop and Competition on Multi-Robot Perception and Navigation Challenges in Logistics and Inspection Tasks</a>!</div>
         </li>
@@ -69,6 +77,20 @@ News
 
 <div class="publication-item">
   <div class="publication-image">
+    <img src="images/rss1.gif" alt="Braid-based Planning">
+  </div>
+  <div class="publication-content">
+    <h3 class="publication-title">Braid-based entanglement-free trajectory planning for multiple tethered robots</h3>
+    <p class="publication-authors"><strong>Cao, M.</strong>, Cao, K., Xu, X., Yuan, S., Wong, Y.L. and Xie, L.</p>
+    <p class="publication-venue">The International Journal of Robotics Research (IJRR), 2025</p>
+    <div class="publication-links">
+      <a href="https://journals.sagepub.com/doi/10.1177/02783649251400382" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-image">
     <img src="images/caric1.gif" alt="CARIC Challenge">
   </div>
   <div class="publication-content">
@@ -97,7 +119,6 @@ News
     </div>
   </div>
 </div>
-
 
 
 <div class="publication-item">

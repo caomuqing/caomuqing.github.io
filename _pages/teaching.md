@@ -157,6 +157,20 @@ author_profile: true
   <h2>🎓 Teaching & Workshops</h2>
   
   <div class="workshop-item">
+    <div class="workshop-title">16-891: Multi-Robot Planning and Coordination</div>
+    <div class="workshop-venue">Carnegie Mellon University</div>
+    <div class="workshop-date">February 2026</div>
+    <div class="workshop-description">Guest lecturer for the graduate-level course on multi-robot planning and coordination.</div>
+  </div>
+  
+  <div class="workshop-item">
+    <div class="workshop-title">CSCE 689-600: Special Topics in Multi-Robot Systems</div>
+    <div class="workshop-venue"><a href="https://cse-robotics.engr.tamu.edu/dshell/cs689/index.html" target="_blank">Texas A&M University</a></div>
+    <div class="workshop-date">October 2025</div>
+    <div class="workshop-description">Guest lecturer for the graduate-level course on multi-robot systems.</div>
+  </div>
+  
+  <div class="workshop-item">
     <div class="workshop-title">Introduction to Aerial Robotics</div>
     <div class="workshop-venue">seeNTU 2023, Nanyang Technological University</div>
     <div class="workshop-date">May 2023</div>

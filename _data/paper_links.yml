@@ -231,6 +231,13 @@ papers:
     code: []
     presentations: []
 
+  "Braid-based entanglement-free trajectory planning for multiple tethered robots":
+    url: "https://journals.sagepub.com/doi/10.1177/02783649251400382"
+    doi: "10.1177/02783649251400382"
+    videos: []
+    code: []
+    presentations: []
+
   "Relative localizability and localization for multi-robot systems":
     url: "https://doi.org/10.1109/TRO.2025.3544103"
     videos: []
