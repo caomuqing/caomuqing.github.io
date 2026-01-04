@@ -98,8 +98,8 @@ News
     <p class="publication-authors"><strong>Muqing Cao</strong>, T.M. Nguyen, Shenghai Yuan, A. Anastasiou, A. Zacharia, S. Papaioannou, P. Kolios, C.G. Panayiotou, M.M. Polycarpou, Xinhang Xu, M. Zhang, F. Gao, B. Zhou, B.M. Chen and Lihua Xie</p>
     <p class="publication-venue">IEEE Robotics & Automation Magazine (RA-M) 2025</p>
     <div class="publication-links">
-      <a href="https://arxiv.org/abs/2501.06566" target="_blank">Paper</a> |
-      <a href="https://www.youtube.com/watch?v=8u5hj2oZ-VY" target="_blank">Video</a> |
+      <a href="https://arxiv.org/abs/2501.06566" target="_blank">Paper</a>
+      <a href="https://www.youtube.com/watch?v=8u5hj2oZ-VY" target="_blank">Video</a>
       <a href="https://ntu-aris.github.io/caric/" target="_blank">Challenge</a>
     </div>
   </div>
@@ -114,7 +114,7 @@ News
     <p class="publication-authors"><strong>Muqing Cao</strong>, Xinhang Xu, Y. Yang, J. Li, T. Jin, P. Wang, T.Y. Hung, G. Lin and Lihua Xie</p>
     <p class="publication-venue">IEEE ICRA 2025</p>
     <div class="publication-links">
-      <a href="https://arxiv.org/abs/2412.00555" target="_blank">Paper</a> |
+      <a href="https://arxiv.org/abs/2412.00555" target="_blank">Paper</a>
       <a href="https://www.youtube.com/watch?v=nSCbNaaF_VM" target="_blank">Video</a>
     </div>
   </div>
@@ -130,8 +130,8 @@ News
     <p class="publication-authors"><strong>Muqing Cao</strong>, Kun Cao, Shenghai Yuan, T.M. Nguyen and Lihua Xie</p>
     <p class="publication-venue">IEEE Transactions on Robotics (T-RO), 2023</p>
     <div class="publication-links">
-      <a href="https://ieeexplore.ieee.org/document/10106112" target="_blank">Paper</a> |
-      <a href="https://youtu.be/8b1RlDvQsi0?si=5a1XaOBbJUw2tFsK" target="_blank">Video</a> |
+      <a href="https://ieeexplore.ieee.org/document/10106112" target="_blank">Paper</a>
+      <a href="https://youtu.be/8b1RlDvQsi0?si=5a1XaOBbJUw2tFsK" target="_blank">Video</a>
       <a href="https://github.com/caomuqing/neptune" target="_blank">Code</a>
     </div>
   </div>
@@ -146,7 +146,7 @@ News
     <p class="publication-authors"><strong>Muqing Cao</strong>, J. Zhao, Xinhang Xu and Lihua Xie</p>
     <p class="publication-venue">IEEE/RSJ IROS 2024</p>
     <div class="publication-links">
-      <a href="https://arxiv.org/abs/2403.15805" target="_blank">Paper</a> |
+      <a href="https://arxiv.org/abs/2403.15805" target="_blank">Paper</a>
       <a href="https://www.youtube.com/watch?v=Q1n-IiIt400" target="_blank">Video</a>
     </div>
   </div>
@@ -161,7 +161,7 @@ News
     <p class="publication-authors"><strong>Muqing Cao</strong>, Xinhang Xu, Shenghai Yuan, Kun Cao, K. Liu and Lihua Xie</p>
     <p class="publication-venue">IROS 2023 Best Entertainment Paper Award</p>
     <div class="publication-links">
-      <a href="https://arxiv.org/abs/2303.05075" target="_blank">Paper</a> |
+      <a href="https://arxiv.org/abs/2303.05075" target="_blank">Paper</a>
       <a href="https://youtu.be/hcw4GKmW_vs" target="_blank">Video</a>
     </div>
   </div>
@@ -176,9 +176,9 @@ News
     <p class="publication-authors"><strong>Muqing Cao</strong>, Kun Cao, Shenghai Yuan, K. Liu, Yan Loi Wong and Lihua Xie</p>
     <p class="publication-venue">Robotics: Science and Systems (RSS), 2023</p>
     <div class="publication-links">
-      <a href="https://www.roboticsproceedings.org/rss19/p106.html" target="_blank">Paper</a> |
-      <a href="https://youtu.be/igP7eaOyZuc?si=JnqFPzdO9TdRhEz0" target="_blank">Video</a> |
-      <a href="https://www.youtube.com/watch?v=0-WXg0hH5Co&t=4976s" target="_blank">Presentation</a> |
+      <a href="https://www.roboticsproceedings.org/rss19/p106.html" target="_blank">Paper</a>
+      <a href="https://youtu.be/igP7eaOyZuc?si=JnqFPzdO9TdRhEz0" target="_blank">Video</a>
+      <a href="https://www.youtube.com/watch?v=0-WXg0hH5Co&t=4976s" target="_blank">Presentation</a>
       <a href="https://github.com/caomuqing/tethered_robots_path_planning" target="_blank">Code</a>
     </div>
   </div>
@@ -191,7 +191,7 @@ News
     <p class="publication-authors"><strong>Muqing Cao</strong>, Kun Cao, X. Li and Lihua Xie</p>
     <p class="publication-venue">IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2023</p>
     <div class="publication-links">
-      <a href="https://ieeexplore.ieee.org/document/10168201" target="_blank">Paper</a> |
+      <a href="https://ieeexplore.ieee.org/document/10168201" target="_blank">Paper</a>
       <a href="https://youtu.be/nBXupDJ9x94?si=JUgQYje5BrFEth6z" target="_blank">Video</a>
     </div>
   </div>
@@ -203,8 +203,8 @@ News
     <p class="publication-authors"><strong>Kun Cao</strong>, <strong>Muqing Cao</strong>, Shenghai Yuan and Lihua Xie</p>
     <p class="publication-venue">IEEE Robotics and Automation Letters (RA-L), 2021</p>
     <div class="publication-links">
-      <a href="https://ieeexplore.ieee.org/document/9681227" target="_blank">Paper</a> |
-      <a href="https://youtu.be/BM8_ABM_2VM?si=NYmO9b82DaAmkFiN" target="_blank">Video</a> |
+      <a href="https://ieeexplore.ieee.org/document/9681227" target="_blank">Paper</a>
+      <a href="https://youtu.be/BM8_ABM_2VM?si=NYmO9b82DaAmkFiN" target="_blank">Video</a>
       <a href="https://github.com/ntu-caokun/DIRECT" target="_blank">Code</a>
     </div>
   </div>
@@ -248,6 +248,14 @@ News
 .publication-content {
   flex: 1;
   min-width: 0; /* Prevents flex item from overflowing */
+  width: 100%;
+  overflow: hidden;
+}
+
+.publication-content .publication-links {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: nowrap !important;
 }
 
 .publication-title {
@@ -281,8 +289,18 @@ News
 .publication-links {
   display: flex;
   gap: 0.5rem;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   align-items: center;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+  width: 100%;
+  min-width: 0;
+}
+
+.publication-links::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
 }
 
 .publication-links a {
@@ -296,12 +314,56 @@ News
   background: #f8f9fa;
   border: 1px solid #e9ecef;
   font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  white-space: nowrap;
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+}
+
+.publication-links a:not(:last-child)::after {
+  content: ' |';
+  margin-left: 0.5rem;
+  color: #b0b0b0;
+  font-weight: normal;
+  white-space: nowrap;
+  display: inline;
+}
+
+/* Force links to stay inline on all devices */
+.publication-links a,
+.publication-links a * {
+  display: inline-flex !important;
+  float: none !important;
+  clear: none !important;
 }
 
 .publication-links a:hover {
   color: #2980b9;
   background: #e3f2fd;
   border-color: #3498db;
+}
+
+/* Force links to stay inline on mobile - add before responsive adjustments */
+@media (max-width: 768px) {
+  .publication-links {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: nowrap !important;
+    align-items: center !important;
+  }
+  
+  .publication-links,
+  .publication-links * {
+    float: none !important;
+    clear: none !important;
+  }
+  
+  .publication-links a {
+    display: inline-flex !important;
+    width: auto !important;
+    max-width: none !important;
+    min-width: auto !important;
+  }
 }
 
 /* Responsive adjustments */
@@ -317,8 +379,48 @@ News
     align-self: center;
   }
   
+  .publication-content {
+    width: 100%;
+    overflow: hidden;
+    text-align: left;
+  }
+  
+  .publication-content .publication-links {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: nowrap !important;
+  }
+  
   .publication-links {
-    justify-content: center;
+    justify-content: flex-start !important;
+    flex-wrap: nowrap !important;
+    flex-direction: row !important;
+    gap: 0.35rem;
+    overflow-x: auto !important;
+    overflow-y: hidden !important;
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+    text-align: left;
+    display: flex !important;
+  }
+  
+  .publication-links a {
+    font-size: 0.6rem;
+    padding: 0.12rem 0.25rem;
+    white-space: nowrap !important;
+    flex-shrink: 0 !important;
+    flex-grow: 0 !important;
+    display: inline-flex !important;
+    align-items: center;
+    width: auto !important;
+    max-width: none !important;
+  }
+  
+  .publication-links a:not(:last-child)::after {
+    margin-left: 0.35rem;
+    white-space: nowrap;
+    display: inline;
   }
   
   .publication-title {
@@ -345,6 +447,18 @@ News
     height: 110px;
   }
   
+  .publication-content {
+    width: 100%;
+    overflow: hidden;
+    text-align: left;
+  }
+  
+  .publication-content .publication-links {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: nowrap !important;
+  }
+  
   .publication-title {
     font-size: 0.9rem;
   }
@@ -357,9 +471,36 @@ News
     font-size: 0.65rem !important;
   }
   
+  .publication-links {
+    flex-wrap: nowrap !important;
+    flex-direction: row !important;
+    gap: 0.3rem;
+    overflow-x: auto !important;
+    overflow-y: hidden !important;
+    justify-content: flex-start !important;
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+    text-align: left;
+    display: flex !important;
+  }
+  
   .publication-links a {
-    font-size: 0.6rem;
-    padding: 0.1rem 0.25rem;
+    font-size: 0.55rem;
+    padding: 0.1rem 0.2rem;
+    white-space: nowrap !important;
+    flex-shrink: 0 !important;
+    flex-grow: 0 !important;
+    display: inline-flex !important;
+    align-items: center;
+    width: auto !important;
+    max-width: none !important;
+  }
+  
+  .publication-links a:not(:last-child)::after {
+    margin-left: 0.3rem;
+    white-space: nowrap;
+    display: inline;
   }
 }
 </style>
