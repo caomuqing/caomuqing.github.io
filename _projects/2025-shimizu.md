@@ -16,7 +16,7 @@ breakagainagain: 'yes'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-Using autonomous drones to collect data in construction site for construction progress monitoring and construction site data classification. We develop realistic digital twin of construction site in Isaac Simulator, autonomous exploration algorithm of a simulated drone model and semantic classification of important BIM data including beam, soil, excavator.
+We use autonomous drones to collect data in construction site for construction progress monitoring and site data classification. We developed realistic digital twin of construction site in Isaac Simulator, autonomous exploration algorithm of a simulated drone model and semantic classification pipeline of important BIM data including beam, soil, and excavator.
 
 Realistic digital twin simulation:
 <video style="float: center; width: 100%; max-width: 800px; margin: 1rem 0;" controls>

@@ -18,14 +18,14 @@ breakagainagain: 'yes'
 
  The DARPA Triage Challenge aims to drive breakthrough innovations in identification of “signatures” of injury that will help medical responders perform scalable, timely, and accurate triage. Of particular interest are mass casualty incidents (MCIs), in both civilian and military settings, when medical resources are limited relative to the need.
 
- In this project I guided a group to master's students to build a autonomous drone and develop algorithms for detecting and tracking injured people in the field.
+ In this project I mentored a group to master's students to build a autonomous drone and develop algorithms for detecting and reporting injured people in the field.
 
  Team website: https://teamchiron.ai/
 
 Our version 1 CHIRON Scout Drone:
 <img style="float: center;" src="/images/triage-1.jpg">
 
-I guided a group of master of robotics systems development (MRSD) students to build the version 2 drone:
+I mentored a group of master of robotics systems development (MRSD) students to build the version 2 drone:
 <img style="float: center;" src="/images/triage-2.jpg">
 
 MRSD students after a successful final project showcase of multi-robot collaborative search:
