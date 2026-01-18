@@ -18,6 +18,8 @@ breakagainagain: 'yes'
 
 In collaboration with Perceptronics Solutions, we develop intelligent multi-robot planning algorithms for search and tracking multiple targets in large open space.
 
+Paper: Hierarchical Planning for Long-Horizon Multi-Target Tracking Under Target Motion Uncertainty accepted by IEEE RA-L
+
 Illustrative scenario:
 <img style="float: center;" src="/images/ripacs-2.png">
 

@@ -22,11 +22,13 @@ breakagainagain: 'yes'
 
  Team website: https://teamchiron.ai/
 
-Our CHIRON Scout Drone:
+Our version 1 CHIRON Scout Drone:
 <img style="float: center;" src="/images/triage-1.jpg">
 
+I guided a group of master of robotics systems development (MRSD) students to build the version 2 drone:
+<img style="float: center;" src="/images/triage-2.jpg">
 
-
-
+MRSD students after a successful final project showcase of multi-robot collaborative search:
+<img style="float: center;" src="/images/triage-3.jpg">
 
 <!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
