@@ -17,6 +17,22 @@ News
 <div style="max-height: 200px; overflow-y: auto; padding: 10px;">
     <ul style="list-style-type: none; padding-left: 0; font-size: 0.9rem; line-height: 1.4; margin: 0;">
         <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
+            <div style="flex: 0 0 80px; font-weight: bold;">2026/02</div>
+            <div style="flex: 1;">I serve as a program committee member of <a href="https://roboticsconference.org/program/pioneers/">RSS Pioneers 2026</a>!</div>
+        </li>
+        <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
+            <div style="flex: 0 0 80px; font-weight: bold;">2026/02</div>
+            <div style="flex: 1;">I gave a guest lecture at CMU graduate course Multi-Robot Planning and Coordination!</div>
+        </li>
+        <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
+            <div style="flex: 0 0 80px; font-weight: bold;">2026/02</div>
+            <div style="flex: 1;">I gave a talk at Pennsylvania State University Systems, Controls, and Robotics seminar series!</div>
+        </li>
+        <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
+            <div style="flex: 0 0 80px; font-weight: bold;">2026/02</div>
+            <div style="flex: 1;">Our paper on online informative path planning (<a href="https://ia-tigris.github.io/">IA-TIGRIS</a>) has been accepted at <strong>IEEE T-RO</strong>!</div>
+        </li>
+        <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
             <div style="flex: 0 0 80px; font-weight: bold;">2025/12</div>
             <div style="flex: 1;">Our paper on multi-robot entanglement-free trajectory planning has been accepted by <strong>IJRR</strong> <a href="https://journals.sagepub.com/doi/10.1177/02783649251400382">(paper link)</a>!</div>
         </li>
