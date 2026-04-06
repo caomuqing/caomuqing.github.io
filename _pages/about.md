@@ -17,6 +17,10 @@ News
 <div style="max-height: 200px; overflow-y: auto; padding: 10px;">
     <ul style="list-style-type: none; padding-left: 0; font-size: 0.9rem; line-height: 1.4; margin: 0;">
         <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
+            <div style="flex: 0 0 80px; font-weight: bold;">2026/04</div>
+            <div style="flex: 1;"><i class="fa fa-fw fa-trophy" aria-hidden="true" style="color: #c9a227;"></i> Our IJRR paper <a href="https://journals.sagepub.com/doi/10.1177/02783649251400382"><em>Braid-based entanglement-free trajectory planning for multiple tethered robots</em></a> received an <strong>honorable mention</strong> for <strong>IJRR Paper of the Season</strong>!</div>
+        </li>
+        <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
             <div style="flex: 0 0 80px; font-weight: bold;">2026/02</div>
             <div style="flex: 1;">I serve as a program committee member of <a href="https://roboticsconference.org/program/pioneers/">RSS Pioneers 2026</a>!</div>
         </li>
@@ -98,7 +102,7 @@ News
   <div class="publication-content">
     <h3 class="publication-title">Braid-based entanglement-free trajectory planning for multiple tethered robots</h3>
     <p class="publication-authors"><strong>Muqing Cao</strong>, Kun Cao, Xinhang Xu, Shenghai Yuan, Yan Loi Wong and Lihua Xie</p>
-    <p class="publication-venue">The International Journal of Robotics Research (IJRR), 2025</p>
+    <p class="publication-venue"><i class="fa fa-fw fa-trophy" aria-hidden="true" style="color: #c9a227;"></i> The International Journal of Robotics Research (IJRR), 2025 — Honorable mention, IJRR Paper of the Season</p>
     <div class="publication-links">
       <a href="https://journals.sagepub.com/doi/10.1177/02783649251400382" target="_blank">Paper</a>
     </div>
@@ -175,7 +179,7 @@ News
   <div class="publication-content">
     <h3 class="publication-title">DoubleBee: A Hybrid Aerial-Ground Robot with Two Active Wheels</h3>
     <p class="publication-authors"><strong>Muqing Cao</strong>, Xinhang Xu, Shenghai Yuan, Kun Cao, K. Liu and Lihua Xie</p>
-    <p class="publication-venue">IROS 2023 Best Entertainment Paper Award</p>
+    <p class="publication-venue"><i class="fa fa-fw fa-trophy" aria-hidden="true" style="color: #c9a227;"></i> IROS 2023 Best Entertainment Paper Award</p>
     <div class="publication-links">
       <a href="https://arxiv.org/abs/2303.05075" target="_blank">Paper</a>
       <a href="https://youtu.be/hcw4GKmW_vs" target="_blank">Video</a>
