@@ -71,11 +71,11 @@ social:
   links: # An array of links to social media profiles
 
 
-# Analytics
+# Analytics (GA4 Measurement ID from https://analytics.google.com → Admin → Data Streams)
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-gtag" # false, "google-gtag", "google-universal", "google", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-SEF4GZ8W37"
 
 
 # Site Author

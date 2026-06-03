@@ -230,10 +230,6 @@ News
   </div>
 </div>
 
-<div style="width: 300px; height: 200px; overflow: hidden;">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RLTHMJODgsVMxCoP0v1Ov2xfZV6-EyjiNuJjykzEnR8&cl=ffffff&w=a"></script>
-</div>
-
 <style>
 /* Publication Items Styling */
 .publication-item {
