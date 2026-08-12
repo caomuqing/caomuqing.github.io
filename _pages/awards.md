@@ -137,6 +137,18 @@ author_profile: true
   <h2>🏆 Awards & Honors</h2>
   
   <div class="award-item">
+    <div class="award-year">2026</div>
+    <div class="award-title">Faculty Early Career Award</div>
+    <div class="award-description">Singapore University of Technology and Design (SUTD)</div>
+  </div>
+  
+  <div class="award-item">
+    <div class="award-year">2026</div>
+    <div class="award-title">Honorable Mention, IJRR Paper of the Season</div>
+    <div class="award-description">The International Journal of Robotics Research (IJRR), for the paper "Braid-based entanglement-free trajectory planning for multiple tethered robots"</div>
+  </div>
+  
+  <div class="award-item">
     <div class="award-year">2025</div>
     <div class="award-title">Robotics: Science and Systems (RSS) Pioneer</div>
     <div class="award-description">Selected as one of 33 early-career robotics researchers worldwide</div>

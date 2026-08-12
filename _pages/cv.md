@@ -8,49 +8,6 @@ redirect_from:
 ---
 
 <style>
-.cv-download {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
-  padding: 2rem;
-  border-radius: 12px;
-  margin-bottom: 2rem;
-  text-align: center;
-  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
-}
-
-.cv-download h2 {
-  margin: 0 0 1rem 0;
-  font-size: 1.8rem;
-  font-weight: 700;
-}
-
-.cv-download p {
-  margin: 0 0 1.5rem 0;
-  font-size: 1.1rem;
-  opacity: 0.9;
-}
-
-.download-button {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  background: white;
-  color: #667eea;
-  text-decoration: none;
-  padding: 1rem 2rem;
-  border-radius: 8px;
-  font-weight: 600;
-  font-size: 1.1rem;
-  transition: all 0.3s ease;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-}
-
-.download-button:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-  color: #5a6fd8;
-}
-
 .cv-section {
   margin-bottom: 2.5rem;
   background: white;
@@ -123,14 +80,6 @@ redirect_from:
 }
 
 @media (max-width: 768px) {
-  .cv-download {
-    padding: 1.5rem;
-  }
-  
-  .cv-download h2 {
-    font-size: 1.5rem;
-  }
-  
   .cv-section {
     padding: 1rem;
   }
@@ -144,14 +93,6 @@ redirect_from:
   }
 }
 </style>
-
-<div class="cv-download">
-  <h2>📄 Download Full CV</h2>
-  <p>For a complete and detailed version of my CV with all publications, projects, and achievements</p>
-  <a href="/files/cv.pdf" class="download-button" target="_blank">
-    📥 Download PDF
-  </a>
-</div>
 
 <div class="cv-section">
   <h2>🎓 Education</h2>

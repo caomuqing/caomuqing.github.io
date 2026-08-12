@@ -8,14 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a postdoctoral fellow at Robotics Institute, Carnegie Mellon University. I obtained my PhD and bachelor degree from Nanyang Technology University, Singapore. My research interests are aerial robots, multi-robot planning, robot dynamics, and control. If you are interested in my research, please contact me via email: caom0006 AT e.ntu.edu.sg.
+**I will be joining the Engineering Systems and Design (ESD) pillar at the Singapore University of Technology and Design (SUTD).** I welcome visiting students and research interns to work with me — if you are interested, please get in touch by email with your CV and a brief note on your research interests.
 
-<span style="background-color: white;">I am interested in collaborating with/mentoring students in research. Please feel free to drop me an email and set up a call if you would like to discuss research problems or seek research guidance.</span>
+Hi, I am a postdoctoral fellow at Robotics Institute, Carnegie Mellon University. I obtained my PhD and bachelor degree from Nanyang Technology University, Singapore. My research interests are aerial robots, multi-robot planning, robot dynamics, and control. If you are interested in my research, please contact me via email: caom0006 AT e.ntu.edu.sg.
 
 News
 ======
 <div style="max-height: 200px; overflow-y: auto; padding: 10px;">
     <ul style="list-style-type: none; padding-left: 0; font-size: 0.9rem; line-height: 1.4; margin: 0;">
+        <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
+            <div style="flex: 0 0 80px; font-weight: bold;">2026/08</div>
+            <div style="flex: 1;"><i class="fa fa-fw fa-trophy" aria-hidden="true" style="color: #c9a227;"></i> I received the Faculty Early Career Award and will be joining the <strong>Engineering Systems and Design (ESD)</strong> pillar at the <strong>Singapore University of Technology and Design (SUTD)</strong>!</div>
+        </li>
+        <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
+            <div style="flex: 0 0 80px; font-weight: bold;">2026/07</div>
+            <div style="flex: 1;">We are organizing the IROS 2026 <a href="https://frostlab.byu.edu/IIG-workshop/">Workshop and Competition on Intelligent Information Gathering for Single and Multi-Robot Systems</a>!</div>
+        </li>
+        <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
+            <div style="flex: 0 0 80px; font-weight: bold;">2026/07</div>
+            <div style="flex: 1;">We are organizing the IROS 2026 workshop on <a href="https://superodometry.com/interoception/">Beyond Exteroception: Interoceptive Perception for Resilient Robotics</a>!</div>
+        </li>
+        <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
+            <div style="flex: 0 0 80px; font-weight: bold;">2026/07</div>
+            <div style="flex: 1;">We are organizing the iros 2026 <a href="https://superodometry.com/imuchallenge/">IMU Odometry Challenge</a>!</div>
+        </li>
         <li style="display: flex; gap: 10px; margin-bottom: 0.5em;">
             <div style="flex: 0 0 80px; font-weight: bold;">2026/04</div>
             <div style="flex: 1;"><i class="fa fa-fw fa-trophy" aria-hidden="true" style="color: #c9a227;"></i> Our IJRR paper <a href="https://journals.sagepub.com/doi/10.1177/02783649251400382"><em>Braid-based entanglement-free trajectory planning for multiple tethered robots</em></a> received an <strong>honorable mention</strong> for <strong>IJRR Paper of the Season</strong>!</div>
